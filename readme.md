@@ -85,7 +85,7 @@ paginas/
 
 **Portada:** Presentación del proyecto y botón “Informe” para iniciar el recorrido.
 
-![Portada](assets\Portada.jpg)
+assets/Portada.jpg
 
 **Página 1 - Mapa:**  
 
