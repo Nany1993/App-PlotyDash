@@ -1,0 +1,2925 @@
+MES;SEXO;HORA;MANERA_MUERTE;Muertes
+Enero;Masculino;0;Accidente;307
+Enero;Masculino;0;Estudio;34
+Enero;Masculino;0;Homicidio;557
+Enero;Masculino;0;Natural;478
+Enero;Masculino;0;Sin Determinar;80
+Enero;Masculino;0;Suicidio;118
+Enero;Masculino;1;Accidente;17
+Enero;Masculino;1;Estudio;1
+Enero;Masculino;1;Homicidio;14
+Enero;Masculino;1;Natural;319
+Enero;Masculino;1;Sin Determinar;2
+Enero;Masculino;1;Suicidio;5
+Enero;Masculino;2;Accidente;12
+Enero;Masculino;2;Homicidio;15
+Enero;Masculino;2;Natural;320
+Enero;Masculino;2;Sin Determinar;1
+Enero;Masculino;2;Suicidio;4
+Enero;Masculino;3;Accidente;15
+Enero;Masculino;3;Estudio;1
+Enero;Masculino;3;Homicidio;15
+Enero;Masculino;3;Natural;354
+Enero;Masculino;3;Sin Determinar;1
+Enero;Masculino;3;Suicidio;4
+Enero;Masculino;4;Accidente;9
+Enero;Masculino;4;Estudio;3
+Enero;Masculino;4;Homicidio;14
+Enero;Masculino;4;Natural;382
+Enero;Masculino;4;Sin Determinar;3
+Enero;Masculino;4;Suicidio;2
+Enero;Masculino;5;Accidente;26
+Enero;Masculino;5;Homicidio;15
+Enero;Masculino;5;Natural;458
+Enero;Masculino;5;Sin Determinar;4
+Enero;Masculino;5;Suicidio;4
+Enero;Masculino;6;Accidente;30
+Enero;Masculino;6;Estudio;1
+Enero;Masculino;6;Homicidio;9
+Enero;Masculino;6;Natural;461
+Enero;Masculino;6;Sin Determinar;2
+Enero;Masculino;6;Suicidio;5
+Enero;Masculino;7;Accidente;20
+Enero;Masculino;7;Estudio;2
+Enero;Masculino;7;Homicidio;12
+Enero;Masculino;7;Natural;418
+Enero;Masculino;7;Sin Determinar;6
+Enero;Masculino;7;Suicidio;3
+Enero;Masculino;8;Accidente;19
+Enero;Masculino;8;Estudio;1
+Enero;Masculino;8;Homicidio;12
+Enero;Masculino;8;Natural;416
+Enero;Masculino;8;Sin Determinar;3
+Enero;Masculino;8;Suicidio;3
+Enero;Masculino;9;Accidente;26
+Enero;Masculino;9;Estudio;1
+Enero;Masculino;9;Homicidio;23
+Enero;Masculino;9;Natural;467
+Enero;Masculino;9;Sin Determinar;7
+Enero;Masculino;10;Accidente;13
+Enero;Masculino;10;Estudio;2
+Enero;Masculino;10;Homicidio;12
+Enero;Masculino;10;Natural;444
+Enero;Masculino;10;Sin Determinar;4
+Enero;Masculino;10;Suicidio;4
+Enero;Masculino;11;Accidente;23
+Enero;Masculino;11;Homicidio;11
+Enero;Masculino;11;Natural;430
+Enero;Masculino;11;Sin Determinar;6
+Enero;Masculino;11;Suicidio;3
+Enero;Masculino;12;Accidente;17
+Enero;Masculino;12;Homicidio;13
+Enero;Masculino;12;Natural;439
+Enero;Masculino;12;Sin Determinar;1
+Enero;Masculino;12;Suicidio;2
+Enero;Masculino;13;Accidente;26
+Enero;Masculino;13;Homicidio;17
+Enero;Masculino;13;Natural;401
+Enero;Masculino;13;Sin Determinar;5
+Enero;Masculino;13;Suicidio;4
+Enero;Masculino;14;Accidente;22
+Enero;Masculino;14;Homicidio;25
+Enero;Masculino;14;Natural;420
+Enero;Masculino;14;Sin Determinar;2
+Enero;Masculino;14;Suicidio;5
+Enero;Masculino;15;Accidente;27
+Enero;Masculino;15;Homicidio;24
+Enero;Masculino;15;Natural;414
+Enero;Masculino;15;Sin Determinar;2
+Enero;Masculino;15;Suicidio;3
+Enero;Masculino;16;Accidente;32
+Enero;Masculino;16;Estudio;1
+Enero;Masculino;16;Homicidio;24
+Enero;Masculino;16;Natural;392
+Enero;Masculino;16;Sin Determinar;6
+Enero;Masculino;16;Suicidio;4
+Enero;Masculino;17;Accidente;19
+Enero;Masculino;17;Estudio;1
+Enero;Masculino;17;Homicidio;20
+Enero;Masculino;17;Natural;385
+Enero;Masculino;17;Sin Determinar;5
+Enero;Masculino;17;Suicidio;5
+Enero;Masculino;18;Accidente;18
+Enero;Masculino;18;Estudio;1
+Enero;Masculino;18;Homicidio;25
+Enero;Masculino;18;Natural;432
+Enero;Masculino;18;Sin Determinar;9
+Enero;Masculino;18;Suicidio;2
+Enero;Masculino;19;Accidente;24
+Enero;Masculino;19;Estudio;3
+Enero;Masculino;19;Homicidio;26
+Enero;Masculino;19;Natural;366
+Enero;Masculino;19;Sin Determinar;5
+Enero;Masculino;19;Suicidio;3
+Enero;Masculino;20;Accidente;22
+Enero;Masculino;20;Homicidio;39
+Enero;Masculino;20;Natural;364
+Enero;Masculino;20;Sin Determinar;1
+Enero;Masculino;20;Suicidio;5
+Enero;Masculino;21;Accidente;22
+Enero;Masculino;21;Homicidio;37
+Enero;Masculino;21;Natural;363
+Enero;Masculino;21;Sin Determinar;2
+Enero;Masculino;21;Suicidio;5
+Enero;Masculino;22;Accidente;20
+Enero;Masculino;22;Estudio;1
+Enero;Masculino;22;Homicidio;28
+Enero;Masculino;22;Natural;360
+Enero;Masculino;22;Sin Determinar;3
+Enero;Masculino;22;Suicidio;3
+Enero;Masculino;23;Accidente;12
+Enero;Masculino;23;Estudio;3
+Enero;Masculino;23;Homicidio;26
+Enero;Masculino;23;Natural;340
+Enero;Masculino;23;Sin Determinar;2
+Enero;Masculino;23;Suicidio;3
+Enero;Femenino;0;Accidente;69
+Enero;Femenino;0;Estudio;11
+Enero;Femenino;0;Homicidio;42
+Enero;Femenino;0;Natural;361
+Enero;Femenino;0;Sin Determinar;14
+Enero;Femenino;0;Suicidio;26
+Enero;Femenino;1;Accidente;4
+Enero;Femenino;1;Estudio;1
+Enero;Femenino;1;Homicidio;2
+Enero;Femenino;1;Natural;311
+Enero;Femenino;2;Accidente;6
+Enero;Femenino;2;Estudio;1
+Enero;Femenino;2;Homicidio;4
+Enero;Femenino;2;Natural;312
+Enero;Femenino;2;Sin Determinar;3
+Enero;Femenino;2;Suicidio;1
+Enero;Femenino;3;Accidente;6
+Enero;Femenino;3;Natural;320
+Enero;Femenino;3;Sin Determinar;2
+Enero;Femenino;3;Suicidio;2
+Enero;Femenino;4;Accidente;3
+Enero;Femenino;4;Estudio;1
+Enero;Femenino;4;Natural;370
+Enero;Femenino;4;Sin Determinar;3
+Enero;Femenino;5;Accidente;6
+Enero;Femenino;5;Estudio;1
+Enero;Femenino;5;Homicidio;1
+Enero;Femenino;5;Natural;460
+Enero;Femenino;5;Sin Determinar;5
+Enero;Femenino;6;Accidente;6
+Enero;Femenino;6;Estudio;1
+Enero;Femenino;6;Homicidio;3
+Enero;Femenino;6;Natural;415
+Enero;Femenino;6;Sin Determinar;6
+Enero;Femenino;6;Suicidio;1
+Enero;Femenino;7;Accidente;9
+Enero;Femenino;7;Homicidio;2
+Enero;Femenino;7;Natural;370
+Enero;Femenino;7;Sin Determinar;2
+Enero;Femenino;7;Suicidio;1
+Enero;Femenino;8;Accidente;6
+Enero;Femenino;8;Homicidio;1
+Enero;Femenino;8;Natural;403
+Enero;Femenino;8;Sin Determinar;4
+Enero;Femenino;9;Accidente;11
+Enero;Femenino;9;Homicidio;1
+Enero;Femenino;9;Natural;469
+Enero;Femenino;9;Sin Determinar;4
+Enero;Femenino;10;Accidente;9
+Enero;Femenino;10;Homicidio;2
+Enero;Femenino;10;Natural;452
+Enero;Femenino;10;Sin Determinar;4
+Enero;Femenino;10;Suicidio;1
+Enero;Femenino;11;Accidente;8
+Enero;Femenino;11;Homicidio;2
+Enero;Femenino;11;Natural;437
+Enero;Femenino;11;Sin Determinar;6
+Enero;Femenino;11;Suicidio;1
+Enero;Femenino;12;Accidente;3
+Enero;Femenino;12;Homicidio;3
+Enero;Femenino;12;Natural;385
+Enero;Femenino;12;Sin Determinar;4
+Enero;Femenino;12;Suicidio;1
+Enero;Femenino;13;Accidente;6
+Enero;Femenino;13;Homicidio;3
+Enero;Femenino;13;Natural;350
+Enero;Femenino;13;Sin Determinar;1
+Enero;Femenino;13;Suicidio;1
+Enero;Femenino;14;Accidente;2
+Enero;Femenino;14;Homicidio;2
+Enero;Femenino;14;Natural;365
+Enero;Femenino;14;Sin Determinar;1
+Enero;Femenino;14;Suicidio;2
+Enero;Femenino;15;Accidente;8
+Enero;Femenino;15;Homicidio;1
+Enero;Femenino;15;Natural;388
+Enero;Femenino;15;Sin Determinar;3
+Enero;Femenino;15;Suicidio;3
+Enero;Femenino;16;Accidente;9
+Enero;Femenino;16;Homicidio;1
+Enero;Femenino;16;Natural;421
+Enero;Femenino;16;Sin Determinar;3
+Enero;Femenino;16;Suicidio;1
+Enero;Femenino;17;Accidente;8
+Enero;Femenino;17;Homicidio;1
+Enero;Femenino;17;Natural;380
+Enero;Femenino;17;Sin Determinar;3
+Enero;Femenino;18;Accidente;9
+Enero;Femenino;18;Estudio;1
+Enero;Femenino;18;Homicidio;2
+Enero;Femenino;18;Natural;399
+Enero;Femenino;18;Sin Determinar;4
+Enero;Femenino;18;Suicidio;1
+Enero;Femenino;19;Accidente;4
+Enero;Femenino;19;Estudio;1
+Enero;Femenino;19;Homicidio;3
+Enero;Femenino;19;Natural;352
+Enero;Femenino;19;Sin Determinar;3
+Enero;Femenino;19;Suicidio;1
+Enero;Femenino;20;Accidente;11
+Enero;Femenino;20;Estudio;1
+Enero;Femenino;20;Homicidio;2
+Enero;Femenino;20;Natural;335
+Enero;Femenino;20;Sin Determinar;2
+Enero;Femenino;21;Accidente;1
+Enero;Femenino;21;Homicidio;3
+Enero;Femenino;21;Natural;345
+Enero;Femenino;21;Sin Determinar;2
+Enero;Femenino;22;Accidente;4
+Enero;Femenino;22;Estudio;1
+Enero;Femenino;22;Homicidio;1
+Enero;Femenino;22;Natural;327
+Enero;Femenino;22;Sin Determinar;1
+Enero;Femenino;22;Suicidio;2
+Enero;Femenino;23;Accidente;4
+Enero;Femenino;23;Natural;341
+Enero;Femenino;23;Sin Determinar;5
+Enero;Femenino;23;Suicidio;2
+Enero;No Definido;0;Homicidio;2
+Enero;No Definido;0;Sin Determinar;5
+Enero;No Definido;9;Homicidio;1
+Enero;No Definido;10;Sin Determinar;1
+Febrero;Masculino;0;Accidente;253
+Febrero;Masculino;0;Estudio;29
+Febrero;Masculino;0;Homicidio;526
+Febrero;Masculino;0;Natural;395
+Febrero;Masculino;0;Sin Determinar;74
+Febrero;Masculino;0;Suicidio;102
+Febrero;Masculino;1;Accidente;13
+Febrero;Masculino;1;Estudio;1
+Febrero;Masculino;1;Homicidio;8
+Febrero;Masculino;1;Natural;289
+Febrero;Masculino;1;Sin Determinar;5
+Febrero;Masculino;1;Suicidio;4
+Febrero;Masculino;2;Accidente;17
+Febrero;Masculino;2;Estudio;1
+Febrero;Masculino;2;Homicidio;10
+Febrero;Masculino;2;Natural;274
+Febrero;Masculino;2;Sin Determinar;2
+Febrero;Masculino;2;Suicidio;2
+Febrero;Masculino;3;Accidente;6
+Febrero;Masculino;3;Homicidio;7
+Febrero;Masculino;3;Natural;278
+Febrero;Masculino;3;Sin Determinar;2
+Febrero;Masculino;3;Suicidio;1
+Febrero;Masculino;4;Accidente;13
+Febrero;Masculino;4;Homicidio;5
+Febrero;Masculino;4;Natural;329
+Febrero;Masculino;4;Sin Determinar;4
+Febrero;Masculino;4;Suicidio;4
+Febrero;Masculino;5;Accidente;15
+Febrero;Masculino;5;Homicidio;8
+Febrero;Masculino;5;Natural;395
+Febrero;Masculino;5;Sin Determinar;6
+Febrero;Masculino;5;Suicidio;2
+Febrero;Masculino;6;Accidente;21
+Febrero;Masculino;6;Homicidio;10
+Febrero;Masculino;6;Natural;343
+Febrero;Masculino;6;Sin Determinar;3
+Febrero;Masculino;6;Suicidio;2
+Febrero;Masculino;7;Accidente;10
+Febrero;Masculino;7;Homicidio;11
+Febrero;Masculino;7;Natural;339
+Febrero;Masculino;7;Sin Determinar;5
+Febrero;Masculino;8;Accidente;12
+Febrero;Masculino;8;Estudio;2
+Febrero;Masculino;8;Homicidio;8
+Febrero;Masculino;8;Natural;317
+Febrero;Masculino;8;Sin Determinar;2
+Febrero;Masculino;8;Suicidio;2
+Febrero;Masculino;9;Accidente;18
+Febrero;Masculino;9;Estudio;1
+Febrero;Masculino;9;Homicidio;11
+Febrero;Masculino;9;Natural;387
+Febrero;Masculino;9;Sin Determinar;3
+Febrero;Masculino;9;Suicidio;3
+Febrero;Masculino;10;Accidente;15
+Febrero;Masculino;10;Estudio;1
+Febrero;Masculino;10;Homicidio;10
+Febrero;Masculino;10;Natural;352
+Febrero;Masculino;10;Sin Determinar;3
+Febrero;Masculino;10;Suicidio;2
+Febrero;Masculino;11;Accidente;19
+Febrero;Masculino;11;Estudio;1
+Febrero;Masculino;11;Homicidio;14
+Febrero;Masculino;11;Natural;326
+Febrero;Masculino;11;Sin Determinar;5
+Febrero;Masculino;12;Accidente;13
+Febrero;Masculino;12;Estudio;1
+Febrero;Masculino;12;Homicidio;13
+Febrero;Masculino;12;Natural;382
+Febrero;Masculino;12;Sin Determinar;3
+Febrero;Masculino;12;Suicidio;4
+Febrero;Masculino;13;Accidente;13
+Febrero;Masculino;13;Estudio;1
+Febrero;Masculino;13;Homicidio;10
+Febrero;Masculino;13;Natural;325
+Febrero;Masculino;13;Sin Determinar;3
+Febrero;Masculino;13;Suicidio;1
+Febrero;Masculino;14;Accidente;24
+Febrero;Masculino;14;Estudio;1
+Febrero;Masculino;14;Homicidio;13
+Febrero;Masculino;14;Natural;352
+Febrero;Masculino;14;Sin Determinar;5
+Febrero;Masculino;14;Suicidio;3
+Febrero;Masculino;15;Accidente;27
+Febrero;Masculino;15;Homicidio;15
+Febrero;Masculino;15;Natural;355
+Febrero;Masculino;15;Suicidio;1
+Febrero;Masculino;16;Accidente;26
+Febrero;Masculino;16;Homicidio;12
+Febrero;Masculino;16;Natural;324
+Febrero;Masculino;16;Sin Determinar;3
+Febrero;Masculino;16;Suicidio;2
+Febrero;Masculino;17;Accidente;24
+Febrero;Masculino;17;Homicidio;19
+Febrero;Masculino;17;Natural;343
+Febrero;Masculino;17;Sin Determinar;3
+Febrero;Masculino;17;Suicidio;2
+Febrero;Masculino;18;Accidente;23
+Febrero;Masculino;18;Homicidio;21
+Febrero;Masculino;18;Natural;330
+Febrero;Masculino;18;Sin Determinar;5
+Febrero;Masculino;18;Suicidio;5
+Febrero;Masculino;19;Accidente;21
+Febrero;Masculino;19;Homicidio;21
+Febrero;Masculino;19;Natural;324
+Febrero;Masculino;19;Sin Determinar;4
+Febrero;Masculino;19;Suicidio;2
+Febrero;Masculino;20;Accidente;21
+Febrero;Masculino;20;Homicidio;34
+Febrero;Masculino;20;Natural;323
+Febrero;Masculino;20;Sin Determinar;3
+Febrero;Masculino;20;Suicidio;1
+Febrero;Masculino;21;Accidente;24
+Febrero;Masculino;21;Homicidio;39
+Febrero;Masculino;21;Natural;320
+Febrero;Masculino;21;Sin Determinar;1
+Febrero;Masculino;21;Suicidio;3
+Febrero;Masculino;22;Accidente;14
+Febrero;Masculino;22;Estudio;2
+Febrero;Masculino;22;Homicidio;19
+Febrero;Masculino;22;Natural;313
+Febrero;Masculino;22;Sin Determinar;4
+Febrero;Masculino;22;Suicidio;2
+Febrero;Masculino;23;Accidente;19
+Febrero;Masculino;23;Estudio;2
+Febrero;Masculino;23;Homicidio;31
+Febrero;Masculino;23;Natural;274
+Febrero;Masculino;23;Suicidio;2
+Febrero;Femenino;0;Accidente;57
+Febrero;Femenino;0;Estudio;13
+Febrero;Femenino;0;Homicidio;51
+Febrero;Femenino;0;Natural;270
+Febrero;Femenino;0;Sin Determinar;14
+Febrero;Femenino;0;Suicidio;30
+Febrero;Femenino;1;Accidente;8
+Febrero;Femenino;1;Homicidio;5
+Febrero;Femenino;1;Natural;278
+Febrero;Femenino;2;Accidente;2
+Febrero;Femenino;2;Estudio;1
+Febrero;Femenino;2;Homicidio;2
+Febrero;Femenino;2;Natural;255
+Febrero;Femenino;2;Sin Determinar;1
+Febrero;Femenino;2;Suicidio;1
+Febrero;Femenino;3;Accidente;2
+Febrero;Femenino;3;Estudio;1
+Febrero;Femenino;3;Homicidio;2
+Febrero;Femenino;3;Natural;291
+Febrero;Femenino;3;Sin Determinar;1
+Febrero;Femenino;3;Suicidio;1
+Febrero;Femenino;4;Accidente;7
+Febrero;Femenino;4;Homicidio;1
+Febrero;Femenino;4;Natural;320
+Febrero;Femenino;4;Sin Determinar;1
+Febrero;Femenino;4;Suicidio;2
+Febrero;Femenino;5;Accidente;7
+Febrero;Femenino;5;Homicidio;1
+Febrero;Femenino;5;Natural;360
+Febrero;Femenino;5;Suicidio;1
+Febrero;Femenino;6;Accidente;2
+Febrero;Femenino;6;Homicidio;2
+Febrero;Femenino;6;Natural;370
+Febrero;Femenino;6;Sin Determinar;1
+Febrero;Femenino;7;Accidente;4
+Febrero;Femenino;7;Natural;303
+Febrero;Femenino;7;Sin Determinar;3
+Febrero;Femenino;8;Accidente;9
+Febrero;Femenino;8;Homicidio;1
+Febrero;Femenino;8;Natural;329
+Febrero;Femenino;8;Sin Determinar;4
+Febrero;Femenino;8;Suicidio;2
+Febrero;Femenino;9;Accidente;3
+Febrero;Femenino;9;Estudio;3
+Febrero;Femenino;9;Natural;365
+Febrero;Femenino;9;Sin Determinar;4
+Febrero;Femenino;9;Suicidio;1
+Febrero;Femenino;10;Accidente;6
+Febrero;Femenino;10;Homicidio;1
+Febrero;Femenino;10;Natural;368
+Febrero;Femenino;10;Sin Determinar;2
+Febrero;Femenino;10;Suicidio;1
+Febrero;Femenino;11;Accidente;3
+Febrero;Femenino;11;Homicidio;3
+Febrero;Femenino;11;Natural;322
+Febrero;Femenino;11;Sin Determinar;3
+Febrero;Femenino;12;Accidente;4
+Febrero;Femenino;12;Natural;329
+Febrero;Femenino;12;Sin Determinar;3
+Febrero;Femenino;12;Suicidio;2
+Febrero;Femenino;13;Accidente;7
+Febrero;Femenino;13;Homicidio;1
+Febrero;Femenino;13;Natural;323
+Febrero;Femenino;13;Sin Determinar;2
+Febrero;Femenino;13;Suicidio;4
+Febrero;Femenino;14;Accidente;6
+Febrero;Femenino;14;Estudio;1
+Febrero;Femenino;14;Natural;339
+Febrero;Femenino;14;Sin Determinar;3
+Febrero;Femenino;14;Suicidio;1
+Febrero;Femenino;15;Accidente;2
+Febrero;Femenino;15;Homicidio;2
+Febrero;Femenino;15;Natural;340
+Febrero;Femenino;15;Sin Determinar;2
+Febrero;Femenino;16;Accidente;3
+Febrero;Femenino;16;Estudio;1
+Febrero;Femenino;16;Homicidio;1
+Febrero;Femenino;16;Natural;360
+Febrero;Femenino;16;Sin Determinar;3
+Febrero;Femenino;16;Suicidio;2
+Febrero;Femenino;17;Accidente;10
+Febrero;Femenino;17;Homicidio;1
+Febrero;Femenino;17;Natural;320
+Febrero;Femenino;18;Accidente;8
+Febrero;Femenino;18;Estudio;1
+Febrero;Femenino;18;Natural;333
+Febrero;Femenino;18;Sin Determinar;4
+Febrero;Femenino;18;Suicidio;1
+Febrero;Femenino;19;Accidente;3
+Febrero;Femenino;19;Homicidio;4
+Febrero;Femenino;19;Natural;308
+Febrero;Femenino;19;Sin Determinar;2
+Febrero;Femenino;19;Suicidio;1
+Febrero;Femenino;20;Accidente;3
+Febrero;Femenino;20;Homicidio;6
+Febrero;Femenino;20;Natural;309
+Febrero;Femenino;20;Suicidio;1
+Febrero;Femenino;21;Accidente;3
+Febrero;Femenino;21;Homicidio;2
+Febrero;Femenino;21;Natural;315
+Febrero;Femenino;21;Suicidio;2
+Febrero;Femenino;22;Accidente;4
+Febrero;Femenino;22;Natural;327
+Febrero;Femenino;22;Sin Determinar;3
+Febrero;Femenino;22;Suicidio;1
+Febrero;Femenino;23;Accidente;4
+Febrero;Femenino;23;Homicidio;2
+Febrero;Femenino;23;Natural;277
+Febrero;Femenino;23;Sin Determinar;4
+Febrero;Femenino;23;Suicidio;4
+Febrero;No Definido;7;Homicidio;1
+Marzo;Masculino;0;Accidente;322
+Marzo;Masculino;0;Estudio;26
+Marzo;Masculino;0;Homicidio;648
+Marzo;Masculino;0;Natural;416
+Marzo;Masculino;0;Sin Determinar;69
+Marzo;Masculino;0;Suicidio;125
+Marzo;Masculino;1;Accidente;23
+Marzo;Masculino;1;Homicidio;24
+Marzo;Masculino;1;Natural;324
+Marzo;Masculino;1;Sin Determinar;5
+Marzo;Masculino;1;Suicidio;6
+Marzo;Masculino;2;Accidente;20
+Marzo;Masculino;2;Homicidio;16
+Marzo;Masculino;2;Natural;320
+Marzo;Masculino;2;Sin Determinar;6
+Marzo;Masculino;2;Suicidio;5
+Marzo;Masculino;3;Accidente;17
+Marzo;Masculino;3;Estudio;1
+Marzo;Masculino;3;Homicidio;13
+Marzo;Masculino;3;Natural;301
+Marzo;Masculino;3;Sin Determinar;3
+Marzo;Masculino;3;Suicidio;1
+Marzo;Masculino;4;Accidente;18
+Marzo;Masculino;4;Estudio;3
+Marzo;Masculino;4;Homicidio;12
+Marzo;Masculino;4;Natural;357
+Marzo;Masculino;4;Sin Determinar;4
+Marzo;Masculino;4;Suicidio;2
+Marzo;Masculino;5;Accidente;25
+Marzo;Masculino;5;Estudio;1
+Marzo;Masculino;5;Homicidio;10
+Marzo;Masculino;5;Natural;397
+Marzo;Masculino;5;Sin Determinar;9
+Marzo;Masculino;5;Suicidio;4
+Marzo;Masculino;6;Accidente;22
+Marzo;Masculino;6;Estudio;3
+Marzo;Masculino;6;Homicidio;12
+Marzo;Masculino;6;Natural;402
+Marzo;Masculino;6;Suicidio;1
+Marzo;Masculino;7;Accidente;11
+Marzo;Masculino;7;Estudio;2
+Marzo;Masculino;7;Homicidio;9
+Marzo;Masculino;7;Natural;376
+Marzo;Masculino;7;Sin Determinar;2
+Marzo;Masculino;7;Suicidio;2
+Marzo;Masculino;8;Accidente;17
+Marzo;Masculino;8;Estudio;1
+Marzo;Masculino;8;Homicidio;12
+Marzo;Masculino;8;Natural;362
+Marzo;Masculino;8;Sin Determinar;4
+Marzo;Masculino;8;Suicidio;3
+Marzo;Masculino;9;Accidente;21
+Marzo;Masculino;9;Homicidio;11
+Marzo;Masculino;9;Natural;425
+Marzo;Masculino;9;Sin Determinar;2
+Marzo;Masculino;9;Suicidio;4
+Marzo;Masculino;10;Accidente;27
+Marzo;Masculino;10;Homicidio;16
+Marzo;Masculino;10;Natural;457
+Marzo;Masculino;10;Sin Determinar;3
+Marzo;Masculino;10;Suicidio;3
+Marzo;Masculino;11;Accidente;28
+Marzo;Masculino;11;Estudio;2
+Marzo;Masculino;11;Homicidio;14
+Marzo;Masculino;11;Natural;391
+Marzo;Masculino;11;Sin Determinar;4
+Marzo;Masculino;11;Suicidio;6
+Marzo;Masculino;12;Accidente;19
+Marzo;Masculino;12;Estudio;1
+Marzo;Masculino;12;Homicidio;15
+Marzo;Masculino;12;Natural;358
+Marzo;Masculino;12;Sin Determinar;4
+Marzo;Masculino;12;Suicidio;2
+Marzo;Masculino;13;Accidente;12
+Marzo;Masculino;13;Estudio;1
+Marzo;Masculino;13;Homicidio;16
+Marzo;Masculino;13;Natural;390
+Marzo;Masculino;13;Sin Determinar;3
+Marzo;Masculino;13;Suicidio;2
+Marzo;Masculino;14;Accidente;14
+Marzo;Masculino;14;Homicidio;6
+Marzo;Masculino;14;Natural;394
+Marzo;Masculino;14;Sin Determinar;1
+Marzo;Masculino;14;Suicidio;4
+Marzo;Masculino;15;Accidente;29
+Marzo;Masculino;15;Homicidio;18
+Marzo;Masculino;15;Natural;418
+Marzo;Masculino;15;Sin Determinar;3
+Marzo;Masculino;15;Suicidio;3
+Marzo;Masculino;16;Accidente;23
+Marzo;Masculino;16;Estudio;1
+Marzo;Masculino;16;Homicidio;25
+Marzo;Masculino;16;Natural;370
+Marzo;Masculino;16;Suicidio;4
+Marzo;Masculino;17;Accidente;13
+Marzo;Masculino;17;Estudio;1
+Marzo;Masculino;17;Homicidio;25
+Marzo;Masculino;17;Natural;348
+Marzo;Masculino;17;Sin Determinar;6
+Marzo;Masculino;17;Suicidio;3
+Marzo;Masculino;18;Accidente;23
+Marzo;Masculino;18;Homicidio;18
+Marzo;Masculino;18;Natural;370
+Marzo;Masculino;18;Sin Determinar;9
+Marzo;Masculino;18;Suicidio;3
+Marzo;Masculino;19;Accidente;25
+Marzo;Masculino;19;Homicidio;36
+Marzo;Masculino;19;Natural;350
+Marzo;Masculino;19;Sin Determinar;3
+Marzo;Masculino;19;Suicidio;4
+Marzo;Masculino;20;Accidente;27
+Marzo;Masculino;20;Homicidio;33
+Marzo;Masculino;20;Natural;339
+Marzo;Masculino;20;Sin Determinar;3
+Marzo;Masculino;20;Suicidio;3
+Marzo;Masculino;21;Accidente;22
+Marzo;Masculino;21;Estudio;2
+Marzo;Masculino;21;Homicidio;36
+Marzo;Masculino;21;Natural;347
+Marzo;Masculino;21;Sin Determinar;6
+Marzo;Masculino;21;Suicidio;2
+Marzo;Masculino;22;Accidente;17
+Marzo;Masculino;22;Homicidio;19
+Marzo;Masculino;22;Natural;313
+Marzo;Masculino;22;Sin Determinar;2
+Marzo;Masculino;22;Suicidio;2
+Marzo;Masculino;23;Accidente;14
+Marzo;Masculino;23;Estudio;1
+Marzo;Masculino;23;Homicidio;24
+Marzo;Masculino;23;Natural;284
+Marzo;Masculino;23;Sin Determinar;3
+Marzo;Femenino;0;Accidente;71
+Marzo;Femenino;0;Estudio;11
+Marzo;Femenino;0;Homicidio;57
+Marzo;Femenino;0;Natural;363
+Marzo;Femenino;0;Sin Determinar;16
+Marzo;Femenino;0;Suicidio;38
+Marzo;Femenino;1;Accidente;5
+Marzo;Femenino;1;Estudio;1
+Marzo;Femenino;1;Homicidio;1
+Marzo;Femenino;1;Natural;296
+Marzo;Femenino;1;Sin Determinar;1
+Marzo;Femenino;1;Suicidio;1
+Marzo;Femenino;2;Accidente;5
+Marzo;Femenino;2;Natural;302
+Marzo;Femenino;2;Sin Determinar;4
+Marzo;Femenino;3;Accidente;4
+Marzo;Femenino;3;Natural;313
+Marzo;Femenino;3;Sin Determinar;3
+Marzo;Femenino;3;Suicidio;1
+Marzo;Femenino;4;Accidente;4
+Marzo;Femenino;4;Estudio;1
+Marzo;Femenino;4;Natural;354
+Marzo;Femenino;4;Suicidio;1
+Marzo;Femenino;5;Accidente;7
+Marzo;Femenino;5;Estudio;1
+Marzo;Femenino;5;Natural;423
+Marzo;Femenino;5;Sin Determinar;1
+Marzo;Femenino;6;Accidente;11
+Marzo;Femenino;6;Natural;388
+Marzo;Femenino;6;Sin Determinar;2
+Marzo;Femenino;7;Accidente;7
+Marzo;Femenino;7;Homicidio;1
+Marzo;Femenino;7;Natural;350
+Marzo;Femenino;7;Sin Determinar;4
+Marzo;Femenino;8;Accidente;7
+Marzo;Femenino;8;Estudio;1
+Marzo;Femenino;8;Homicidio;2
+Marzo;Femenino;8;Natural;326
+Marzo;Femenino;8;Sin Determinar;3
+Marzo;Femenino;8;Suicidio;2
+Marzo;Femenino;9;Accidente;9
+Marzo;Femenino;9;Estudio;1
+Marzo;Femenino;9;Homicidio;1
+Marzo;Femenino;9;Natural;377
+Marzo;Femenino;9;Sin Determinar;1
+Marzo;Femenino;10;Accidente;6
+Marzo;Femenino;10;Estudio;3
+Marzo;Femenino;10;Homicidio;1
+Marzo;Femenino;10;Natural;361
+Marzo;Femenino;10;Suicidio;1
+Marzo;Femenino;11;Accidente;8
+Marzo;Femenino;11;Natural;377
+Marzo;Femenino;11;Sin Determinar;4
+Marzo;Femenino;11;Suicidio;2
+Marzo;Femenino;12;Accidente;8
+Marzo;Femenino;12;Homicidio;4
+Marzo;Femenino;12;Natural;391
+Marzo;Femenino;12;Sin Determinar;3
+Marzo;Femenino;12;Suicidio;1
+Marzo;Femenino;13;Accidente;8
+Marzo;Femenino;13;Homicidio;1
+Marzo;Femenino;13;Natural;365
+Marzo;Femenino;13;Sin Determinar;4
+Marzo;Femenino;14;Accidente;8
+Marzo;Femenino;14;Natural;361
+Marzo;Femenino;14;Suicidio;3
+Marzo;Femenino;15;Accidente;6
+Marzo;Femenino;15;Homicidio;1
+Marzo;Femenino;15;Natural;351
+Marzo;Femenino;15;Sin Determinar;5
+Marzo;Femenino;16;Accidente;5
+Marzo;Femenino;16;Homicidio;3
+Marzo;Femenino;16;Natural;383
+Marzo;Femenino;16;Sin Determinar;1
+Marzo;Femenino;16;Suicidio;2
+Marzo;Femenino;17;Accidente;3
+Marzo;Femenino;17;Homicidio;1
+Marzo;Femenino;17;Natural;345
+Marzo;Femenino;17;Sin Determinar;3
+Marzo;Femenino;17;Suicidio;1
+Marzo;Femenino;18;Accidente;5
+Marzo;Femenino;18;Estudio;1
+Marzo;Femenino;18;Homicidio;3
+Marzo;Femenino;18;Natural;359
+Marzo;Femenino;18;Sin Determinar;3
+Marzo;Femenino;18;Suicidio;1
+Marzo;Femenino;19;Accidente;7
+Marzo;Femenino;19;Homicidio;1
+Marzo;Femenino;19;Natural;343
+Marzo;Femenino;19;Sin Determinar;1
+Marzo;Femenino;19;Suicidio;3
+Marzo;Femenino;20;Accidente;3
+Marzo;Femenino;20;Estudio;1
+Marzo;Femenino;20;Homicidio;7
+Marzo;Femenino;20;Natural;331
+Marzo;Femenino;20;Sin Determinar;2
+Marzo;Femenino;20;Suicidio;1
+Marzo;Femenino;21;Accidente;6
+Marzo;Femenino;21;Estudio;1
+Marzo;Femenino;21;Homicidio;1
+Marzo;Femenino;21;Natural;319
+Marzo;Femenino;21;Sin Determinar;1
+Marzo;Femenino;21;Suicidio;3
+Marzo;Femenino;22;Accidente;4
+Marzo;Femenino;22;Homicidio;3
+Marzo;Femenino;22;Natural;344
+Marzo;Femenino;22;Sin Determinar;1
+Marzo;Femenino;23;Accidente;4
+Marzo;Femenino;23;Estudio;1
+Marzo;Femenino;23;Homicidio;1
+Marzo;Femenino;23;Natural;306
+Marzo;Femenino;23;Sin Determinar;2
+Marzo;Femenino;23;Suicidio;1
+Marzo;No Definido;0;Homicidio;4
+Marzo;No Definido;0;Sin Determinar;9
+Marzo;No Definido;16;Estudio;1
+Abril;Masculino;0;Accidente;292
+Abril;Masculino;0;Estudio;24
+Abril;Masculino;0;Homicidio;523
+Abril;Masculino;0;Natural;413
+Abril;Masculino;0;Sin Determinar;56
+Abril;Masculino;0;Suicidio;122
+Abril;Masculino;1;Accidente;13
+Abril;Masculino;1;Estudio;1
+Abril;Masculino;1;Homicidio;28
+Abril;Masculino;1;Natural;310
+Abril;Masculino;1;Suicidio;2
+Abril;Masculino;2;Accidente;12
+Abril;Masculino;2;Homicidio;18
+Abril;Masculino;2;Natural;287
+Abril;Masculino;2;Sin Determinar;4
+Abril;Masculino;3;Accidente;14
+Abril;Masculino;3;Estudio;1
+Abril;Masculino;3;Homicidio;15
+Abril;Masculino;3;Natural;302
+Abril;Masculino;3;Sin Determinar;1
+Abril;Masculino;3;Suicidio;4
+Abril;Masculino;4;Accidente;17
+Abril;Masculino;4;Estudio;2
+Abril;Masculino;4;Homicidio;18
+Abril;Masculino;4;Natural;387
+Abril;Masculino;4;Sin Determinar;2
+Abril;Masculino;4;Suicidio;3
+Abril;Masculino;5;Accidente;22
+Abril;Masculino;5;Homicidio;11
+Abril;Masculino;5;Natural;404
+Abril;Masculino;5;Sin Determinar;6
+Abril;Masculino;5;Suicidio;5
+Abril;Masculino;6;Accidente;20
+Abril;Masculino;6;Estudio;1
+Abril;Masculino;6;Homicidio;16
+Abril;Masculino;6;Natural;384
+Abril;Masculino;6;Sin Determinar;4
+Abril;Masculino;6;Suicidio;4
+Abril;Masculino;7;Accidente;8
+Abril;Masculino;7;Homicidio;9
+Abril;Masculino;7;Natural;341
+Abril;Masculino;7;Sin Determinar;4
+Abril;Masculino;7;Suicidio;2
+Abril;Masculino;8;Accidente;15
+Abril;Masculino;8;Homicidio;9
+Abril;Masculino;8;Natural;385
+Abril;Masculino;8;Sin Determinar;4
+Abril;Masculino;8;Suicidio;5
+Abril;Masculino;9;Accidente;16
+Abril;Masculino;9;Homicidio;5
+Abril;Masculino;9;Natural;418
+Abril;Masculino;9;Sin Determinar;6
+Abril;Masculino;9;Suicidio;3
+Abril;Masculino;10;Accidente;35
+Abril;Masculino;10;Estudio;1
+Abril;Masculino;10;Homicidio;11
+Abril;Masculino;10;Natural;425
+Abril;Masculino;10;Sin Determinar;5
+Abril;Masculino;10;Suicidio;5
+Abril;Masculino;11;Accidente;16
+Abril;Masculino;11;Estudio;1
+Abril;Masculino;11;Homicidio;16
+Abril;Masculino;11;Natural;395
+Abril;Masculino;11;Sin Determinar;3
+Abril;Masculino;11;Suicidio;3
+Abril;Masculino;12;Accidente;24
+Abril;Masculino;12;Estudio;1
+Abril;Masculino;12;Homicidio;12
+Abril;Masculino;12;Natural;371
+Abril;Masculino;12;Sin Determinar;3
+Abril;Masculino;12;Suicidio;4
+Abril;Masculino;13;Accidente;19
+Abril;Masculino;13;Estudio;1
+Abril;Masculino;13;Homicidio;19
+Abril;Masculino;13;Natural;376
+Abril;Masculino;13;Sin Determinar;4
+Abril;Masculino;13;Suicidio;1
+Abril;Masculino;14;Accidente;11
+Abril;Masculino;14;Homicidio;16
+Abril;Masculino;14;Natural;377
+Abril;Masculino;14;Sin Determinar;4
+Abril;Masculino;14;Suicidio;2
+Abril;Masculino;15;Accidente;20
+Abril;Masculino;15;Homicidio;15
+Abril;Masculino;15;Natural;343
+Abril;Masculino;15;Sin Determinar;3
+Abril;Masculino;15;Suicidio;5
+Abril;Masculino;16;Accidente;29
+Abril;Masculino;16;Estudio;1
+Abril;Masculino;16;Homicidio;15
+Abril;Masculino;16;Natural;368
+Abril;Masculino;16;Sin Determinar;1
+Abril;Masculino;17;Accidente;31
+Abril;Masculino;17;Estudio;3
+Abril;Masculino;17;Homicidio;18
+Abril;Masculino;17;Natural;400
+Abril;Masculino;17;Sin Determinar;2
+Abril;Masculino;17;Suicidio;10
+Abril;Masculino;18;Accidente;29
+Abril;Masculino;18;Estudio;1
+Abril;Masculino;18;Homicidio;21
+Abril;Masculino;18;Natural;392
+Abril;Masculino;18;Sin Determinar;6
+Abril;Masculino;18;Suicidio;4
+Abril;Masculino;19;Accidente;22
+Abril;Masculino;19;Homicidio;38
+Abril;Masculino;19;Natural;369
+Abril;Masculino;19;Sin Determinar;4
+Abril;Masculino;19;Suicidio;4
+Abril;Masculino;20;Accidente;19
+Abril;Masculino;20;Homicidio;35
+Abril;Masculino;20;Natural;302
+Abril;Masculino;20;Sin Determinar;3
+Abril;Masculino;20;Suicidio;3
+Abril;Masculino;21;Accidente;19
+Abril;Masculino;21;Homicidio;30
+Abril;Masculino;21;Natural;305
+Abril;Masculino;21;Sin Determinar;3
+Abril;Masculino;21;Suicidio;4
+Abril;Masculino;22;Accidente;20
+Abril;Masculino;22;Homicidio;24
+Abril;Masculino;22;Natural;288
+Abril;Masculino;22;Suicidio;3
+Abril;Masculino;23;Accidente;19
+Abril;Masculino;23;Homicidio;25
+Abril;Masculino;23;Natural;262
+Abril;Masculino;23;Sin Determinar;1
+Abril;Masculino;23;Suicidio;1
+Abril;Femenino;0;Accidente;65
+Abril;Femenino;0;Estudio;7
+Abril;Femenino;0;Homicidio;51
+Abril;Femenino;0;Natural;286
+Abril;Femenino;0;Sin Determinar;17
+Abril;Femenino;0;Suicidio;24
+Abril;Femenino;1;Accidente;7
+Abril;Femenino;1;Estudio;1
+Abril;Femenino;1;Natural;291
+Abril;Femenino;1;Sin Determinar;5
+Abril;Femenino;2;Accidente;6
+Abril;Femenino;2;Estudio;1
+Abril;Femenino;2;Homicidio;2
+Abril;Femenino;2;Natural;266
+Abril;Femenino;2;Sin Determinar;1
+Abril;Femenino;3;Homicidio;1
+Abril;Femenino;3;Natural;311
+Abril;Femenino;3;Sin Determinar;1
+Abril;Femenino;4;Accidente;3
+Abril;Femenino;4;Estudio;1
+Abril;Femenino;4;Homicidio;1
+Abril;Femenino;4;Natural;339
+Abril;Femenino;5;Accidente;6
+Abril;Femenino;5;Homicidio;3
+Abril;Femenino;5;Natural;407
+Abril;Femenino;5;Sin Determinar;3
+Abril;Femenino;6;Accidente;7
+Abril;Femenino;6;Natural;384
+Abril;Femenino;6;Sin Determinar;1
+Abril;Femenino;6;Suicidio;1
+Abril;Femenino;7;Accidente;6
+Abril;Femenino;7;Estudio;1
+Abril;Femenino;7;Natural;335
+Abril;Femenino;7;Sin Determinar;3
+Abril;Femenino;8;Accidente;12
+Abril;Femenino;8;Homicidio;1
+Abril;Femenino;8;Natural;390
+Abril;Femenino;8;Suicidio;2
+Abril;Femenino;9;Accidente;6
+Abril;Femenino;9;Estudio;2
+Abril;Femenino;9;Homicidio;1
+Abril;Femenino;9;Natural;389
+Abril;Femenino;9;Sin Determinar;2
+Abril;Femenino;10;Accidente;9
+Abril;Femenino;10;Homicidio;1
+Abril;Femenino;10;Natural;384
+Abril;Femenino;10;Suicidio;1
+Abril;Femenino;11;Accidente;10
+Abril;Femenino;11;Homicidio;3
+Abril;Femenino;11;Natural;387
+Abril;Femenino;11;Sin Determinar;1
+Abril;Femenino;11;Suicidio;1
+Abril;Femenino;12;Accidente;10
+Abril;Femenino;12;Natural;354
+Abril;Femenino;12;Sin Determinar;1
+Abril;Femenino;12;Suicidio;1
+Abril;Femenino;13;Accidente;7
+Abril;Femenino;13;Estudio;2
+Abril;Femenino;13;Homicidio;1
+Abril;Femenino;13;Natural;354
+Abril;Femenino;13;Sin Determinar;1
+Abril;Femenino;14;Accidente;5
+Abril;Femenino;14;Homicidio;2
+Abril;Femenino;14;Natural;339
+Abril;Femenino;14;Sin Determinar;3
+Abril;Femenino;15;Accidente;6
+Abril;Femenino;15;Estudio;1
+Abril;Femenino;15;Homicidio;1
+Abril;Femenino;15;Natural;353
+Abril;Femenino;15;Suicidio;2
+Abril;Femenino;16;Accidente;12
+Abril;Femenino;16;Homicidio;3
+Abril;Femenino;16;Natural;323
+Abril;Femenino;16;Sin Determinar;1
+Abril;Femenino;16;Suicidio;3
+Abril;Femenino;17;Accidente;8
+Abril;Femenino;17;Estudio;1
+Abril;Femenino;17;Homicidio;1
+Abril;Femenino;17;Natural;321
+Abril;Femenino;17;Sin Determinar;1
+Abril;Femenino;18;Accidente;4
+Abril;Femenino;18;Homicidio;3
+Abril;Femenino;18;Natural;322
+Abril;Femenino;18;Sin Determinar;3
+Abril;Femenino;18;Suicidio;2
+Abril;Femenino;19;Accidente;6
+Abril;Femenino;19;Estudio;1
+Abril;Femenino;19;Homicidio;4
+Abril;Femenino;19;Natural;338
+Abril;Femenino;19;Sin Determinar;4
+Abril;Femenino;19;Suicidio;1
+Abril;Femenino;20;Accidente;12
+Abril;Femenino;20;Estudio;1
+Abril;Femenino;20;Homicidio;3
+Abril;Femenino;20;Natural;348
+Abril;Femenino;21;Accidente;7
+Abril;Femenino;21;Estudio;1
+Abril;Femenino;21;Homicidio;2
+Abril;Femenino;21;Natural;326
+Abril;Femenino;22;Accidente;3
+Abril;Femenino;22;Homicidio;4
+Abril;Femenino;22;Natural;315
+Abril;Femenino;23;Accidente;6
+Abril;Femenino;23;Homicidio;2
+Abril;Femenino;23;Natural;282
+Abril;Femenino;23;Sin Determinar;3
+Abril;Femenino;23;Suicidio;1
+Abril;No Definido;0;Accidente;1
+Abril;No Definido;0;Estudio;2
+Abril;No Definido;0;Sin Determinar;1
+Abril;No Definido;17;Estudio;1
+Abril;No Definido;21;Sin Determinar;1
+Abril;No Definido;23;Natural;1
+Mayo;Masculino;0;Accidente;302
+Mayo;Masculino;0;Estudio;30
+Mayo;Masculino;0;Homicidio;548
+Mayo;Masculino;0;Natural;401
+Mayo;Masculino;0;Sin Determinar;66
+Mayo;Masculino;0;Suicidio;125
+Mayo;Masculino;1;Accidente;18
+Mayo;Masculino;1;Estudio;1
+Mayo;Masculino;1;Homicidio;25
+Mayo;Masculino;1;Natural;337
+Mayo;Masculino;1;Sin Determinar;1
+Mayo;Masculino;1;Suicidio;1
+Mayo;Masculino;2;Accidente;13
+Mayo;Masculino;2;Homicidio;12
+Mayo;Masculino;2;Natural;313
+Mayo;Masculino;2;Sin Determinar;2
+Mayo;Masculino;2;Suicidio;1
+Mayo;Masculino;3;Accidente;13
+Mayo;Masculino;3;Estudio;1
+Mayo;Masculino;3;Homicidio;17
+Mayo;Masculino;3;Natural;323
+Mayo;Masculino;3;Sin Determinar;3
+Mayo;Masculino;3;Suicidio;5
+Mayo;Masculino;4;Accidente;17
+Mayo;Masculino;4;Estudio;1
+Mayo;Masculino;4;Homicidio;14
+Mayo;Masculino;4;Natural;354
+Mayo;Masculino;4;Sin Determinar;4
+Mayo;Masculino;4;Suicidio;4
+Mayo;Masculino;5;Accidente;16
+Mayo;Masculino;5;Homicidio;12
+Mayo;Masculino;5;Natural;406
+Mayo;Masculino;5;Sin Determinar;3
+Mayo;Masculino;6;Accidente;23
+Mayo;Masculino;6;Estudio;1
+Mayo;Masculino;6;Homicidio;17
+Mayo;Masculino;6;Natural;440
+Mayo;Masculino;6;Sin Determinar;1
+Mayo;Masculino;6;Suicidio;3
+Mayo;Masculino;7;Accidente;19
+Mayo;Masculino;7;Homicidio;7
+Mayo;Masculino;7;Natural;373
+Mayo;Masculino;7;Sin Determinar;4
+Mayo;Masculino;7;Suicidio;4
+Mayo;Masculino;8;Accidente;22
+Mayo;Masculino;8;Estudio;1
+Mayo;Masculino;8;Homicidio;11
+Mayo;Masculino;8;Natural;401
+Mayo;Masculino;8;Sin Determinar;1
+Mayo;Masculino;8;Suicidio;5
+Mayo;Masculino;9;Accidente;26
+Mayo;Masculino;9;Homicidio;7
+Mayo;Masculino;9;Natural;409
+Mayo;Masculino;9;Sin Determinar;5
+Mayo;Masculino;9;Suicidio;1
+Mayo;Masculino;10;Accidente;20
+Mayo;Masculino;10;Estudio;2
+Mayo;Masculino;10;Homicidio;21
+Mayo;Masculino;10;Natural;440
+Mayo;Masculino;10;Sin Determinar;1
+Mayo;Masculino;10;Suicidio;5
+Mayo;Masculino;11;Accidente;23
+Mayo;Masculino;11;Homicidio;16
+Mayo;Masculino;11;Natural;380
+Mayo;Masculino;11;Sin Determinar;2
+Mayo;Masculino;11;Suicidio;2
+Mayo;Masculino;12;Accidente;13
+Mayo;Masculino;12;Estudio;1
+Mayo;Masculino;12;Homicidio;11
+Mayo;Masculino;12;Natural;438
+Mayo;Masculino;12;Suicidio;2
+Mayo;Masculino;13;Accidente;23
+Mayo;Masculino;13;Homicidio;19
+Mayo;Masculino;13;Natural;392
+Mayo;Masculino;13;Sin Determinar;2
+Mayo;Masculino;13;Suicidio;4
+Mayo;Masculino;14;Accidente;25
+Mayo;Masculino;14;Homicidio;17
+Mayo;Masculino;14;Natural;379
+Mayo;Masculino;14;Sin Determinar;3
+Mayo;Masculino;14;Suicidio;4
+Mayo;Masculino;15;Accidente;27
+Mayo;Masculino;15;Estudio;2
+Mayo;Masculino;15;Homicidio;21
+Mayo;Masculino;15;Natural;371
+Mayo;Masculino;15;Sin Determinar;4
+Mayo;Masculino;15;Suicidio;2
+Mayo;Masculino;16;Accidente;27
+Mayo;Masculino;16;Homicidio;22
+Mayo;Masculino;16;Natural;370
+Mayo;Masculino;16;Sin Determinar;4
+Mayo;Masculino;16;Suicidio;4
+Mayo;Masculino;17;Accidente;29
+Mayo;Masculino;17;Homicidio;22
+Mayo;Masculino;17;Natural;343
+Mayo;Masculino;17;Sin Determinar;5
+Mayo;Masculino;17;Suicidio;3
+Mayo;Masculino;18;Accidente;25
+Mayo;Masculino;18;Estudio;1
+Mayo;Masculino;18;Homicidio;26
+Mayo;Masculino;18;Natural;377
+Mayo;Masculino;18;Sin Determinar;4
+Mayo;Masculino;18;Suicidio;3
+Mayo;Masculino;19;Accidente;26
+Mayo;Masculino;19;Homicidio;34
+Mayo;Masculino;19;Natural;373
+Mayo;Masculino;19;Sin Determinar;4
+Mayo;Masculino;19;Suicidio;2
+Mayo;Masculino;20;Accidente;25
+Mayo;Masculino;20;Homicidio;41
+Mayo;Masculino;20;Natural;359
+Mayo;Masculino;20;Sin Determinar;6
+Mayo;Masculino;20;Suicidio;2
+Mayo;Masculino;21;Accidente;19
+Mayo;Masculino;21;Homicidio;33
+Mayo;Masculino;21;Natural;318
+Mayo;Masculino;21;Sin Determinar;2
+Mayo;Masculino;21;Suicidio;3
+Mayo;Masculino;22;Accidente;11
+Mayo;Masculino;22;Homicidio;29
+Mayo;Masculino;22;Natural;307
+Mayo;Masculino;22;Sin Determinar;2
+Mayo;Masculino;22;Suicidio;3
+Mayo;Masculino;23;Accidente;21
+Mayo;Masculino;23;Homicidio;23
+Mayo;Masculino;23;Natural;296
+Mayo;Masculino;23;Sin Determinar;3
+Mayo;Masculino;23;Suicidio;6
+Mayo;Femenino;0;Accidente;59
+Mayo;Femenino;0;Estudio;18
+Mayo;Femenino;0;Homicidio;62
+Mayo;Femenino;0;Natural;327
+Mayo;Femenino;0;Sin Determinar;24
+Mayo;Femenino;0;Suicidio;34
+Mayo;Femenino;1;Accidente;4
+Mayo;Femenino;1;Homicidio;3
+Mayo;Femenino;1;Natural;320
+Mayo;Femenino;1;Sin Determinar;3
+Mayo;Femenino;2;Accidente;3
+Mayo;Femenino;2;Estudio;1
+Mayo;Femenino;2;Homicidio;2
+Mayo;Femenino;2;Natural;304
+Mayo;Femenino;2;Sin Determinar;2
+Mayo;Femenino;2;Suicidio;1
+Mayo;Femenino;3;Accidente;8
+Mayo;Femenino;3;Homicidio;2
+Mayo;Femenino;3;Natural;312
+Mayo;Femenino;3;Suicidio;1
+Mayo;Femenino;4;Accidente;4
+Mayo;Femenino;4;Estudio;1
+Mayo;Femenino;4;Homicidio;2
+Mayo;Femenino;4;Natural;343
+Mayo;Femenino;5;Accidente;5
+Mayo;Femenino;5;Homicidio;3
+Mayo;Femenino;5;Natural;407
+Mayo;Femenino;6;Accidente;7
+Mayo;Femenino;6;Homicidio;1
+Mayo;Femenino;6;Natural;446
+Mayo;Femenino;7;Accidente;6
+Mayo;Femenino;7;Homicidio;2
+Mayo;Femenino;7;Natural;365
+Mayo;Femenino;8;Accidente;5
+Mayo;Femenino;8;Natural;403
+Mayo;Femenino;8;Sin Determinar;2
+Mayo;Femenino;8;Suicidio;2
+Mayo;Femenino;9;Accidente;9
+Mayo;Femenino;9;Homicidio;1
+Mayo;Femenino;9;Natural;405
+Mayo;Femenino;9;Sin Determinar;2
+Mayo;Femenino;10;Accidente;7
+Mayo;Femenino;10;Estudio;1
+Mayo;Femenino;10;Homicidio;1
+Mayo;Femenino;10;Natural;436
+Mayo;Femenino;10;Sin Determinar;1
+Mayo;Femenino;10;Suicidio;1
+Mayo;Femenino;11;Accidente;6
+Mayo;Femenino;11;Estudio;2
+Mayo;Femenino;11;Homicidio;2
+Mayo;Femenino;11;Natural;396
+Mayo;Femenino;11;Sin Determinar;4
+Mayo;Femenino;11;Suicidio;1
+Mayo;Femenino;12;Accidente;9
+Mayo;Femenino;12;Estudio;1
+Mayo;Femenino;12;Natural;387
+Mayo;Femenino;12;Sin Determinar;1
+Mayo;Femenino;13;Accidente;7
+Mayo;Femenino;13;Homicidio;3
+Mayo;Femenino;13;Natural;379
+Mayo;Femenino;13;Suicidio;2
+Mayo;Femenino;14;Accidente;13
+Mayo;Femenino;14;Estudio;1
+Mayo;Femenino;14;Homicidio;1
+Mayo;Femenino;14;Natural;393
+Mayo;Femenino;14;Sin Determinar;1
+Mayo;Femenino;14;Suicidio;1
+Mayo;Femenino;15;Accidente;9
+Mayo;Femenino;15;Homicidio;1
+Mayo;Femenino;15;Natural;379
+Mayo;Femenino;15;Suicidio;1
+Mayo;Femenino;16;Accidente;9
+Mayo;Femenino;16;Homicidio;2
+Mayo;Femenino;16;Natural;363
+Mayo;Femenino;16;Sin Determinar;1
+Mayo;Femenino;16;Suicidio;2
+Mayo;Femenino;17;Accidente;8
+Mayo;Femenino;17;Estudio;1
+Mayo;Femenino;17;Homicidio;4
+Mayo;Femenino;17;Natural;413
+Mayo;Femenino;18;Accidente;4
+Mayo;Femenino;18;Homicidio;4
+Mayo;Femenino;18;Natural;356
+Mayo;Femenino;18;Sin Determinar;3
+Mayo;Femenino;18;Suicidio;2
+Mayo;Femenino;19;Accidente;10
+Mayo;Femenino;19;Homicidio;3
+Mayo;Femenino;19;Natural;332
+Mayo;Femenino;19;Suicidio;2
+Mayo;Femenino;20;Accidente;9
+Mayo;Femenino;20;Homicidio;1
+Mayo;Femenino;20;Natural;361
+Mayo;Femenino;21;Accidente;10
+Mayo;Femenino;21;Homicidio;4
+Mayo;Femenino;21;Natural;288
+Mayo;Femenino;21;Sin Determinar;1
+Mayo;Femenino;22;Accidente;5
+Mayo;Femenino;22;Estudio;1
+Mayo;Femenino;22;Homicidio;2
+Mayo;Femenino;22;Natural;327
+Mayo;Femenino;22;Sin Determinar;1
+Mayo;Femenino;23;Accidente;8
+Mayo;Femenino;23;Homicidio;3
+Mayo;Femenino;23;Natural;334
+Mayo;Femenino;23;Sin Determinar;1
+Mayo;No Definido;0;Accidente;1
+Mayo;No Definido;0;Homicidio;1
+Mayo;No Definido;0;Sin Determinar;2
+Junio;Masculino;0;Accidente;327
+Junio;Masculino;0;Estudio;32
+Junio;Masculino;0;Homicidio;558
+Junio;Masculino;0;Natural;441
+Junio;Masculino;0;Sin Determinar;56
+Junio;Masculino;0;Suicidio;127
+Junio;Masculino;1;Accidente;23
+Junio;Masculino;1;Homicidio;23
+Junio;Masculino;1;Natural;346
+Junio;Masculino;1;Sin Determinar;4
+Junio;Masculino;1;Suicidio;1
+Junio;Masculino;2;Accidente;13
+Junio;Masculino;2;Homicidio;18
+Junio;Masculino;2;Natural;290
+Junio;Masculino;2;Sin Determinar;2
+Junio;Masculino;2;Suicidio;3
+Junio;Masculino;3;Accidente;25
+Junio;Masculino;3;Homicidio;20
+Junio;Masculino;3;Natural;321
+Junio;Masculino;3;Sin Determinar;1
+Junio;Masculino;3;Suicidio;4
+Junio;Masculino;4;Accidente;14
+Junio;Masculino;4;Homicidio;12
+Junio;Masculino;4;Natural;402
+Junio;Masculino;4;Sin Determinar;2
+Junio;Masculino;4;Suicidio;4
+Junio;Masculino;5;Accidente;29
+Junio;Masculino;5;Estudio;1
+Junio;Masculino;5;Homicidio;12
+Junio;Masculino;5;Natural;442
+Junio;Masculino;5;Sin Determinar;3
+Junio;Masculino;5;Suicidio;3
+Junio;Masculino;6;Accidente;22
+Junio;Masculino;6;Estudio;1
+Junio;Masculino;6;Homicidio;14
+Junio;Masculino;6;Natural;438
+Junio;Masculino;6;Sin Determinar;6
+Junio;Masculino;6;Suicidio;4
+Junio;Masculino;7;Accidente;13
+Junio;Masculino;7;Homicidio;8
+Junio;Masculino;7;Natural;357
+Junio;Masculino;7;Suicidio;5
+Junio;Masculino;8;Accidente;17
+Junio;Masculino;8;Homicidio;8
+Junio;Masculino;8;Natural;409
+Junio;Masculino;8;Sin Determinar;6
+Junio;Masculino;8;Suicidio;5
+Junio;Masculino;9;Accidente;21
+Junio;Masculino;9;Homicidio;7
+Junio;Masculino;9;Natural;422
+Junio;Masculino;9;Sin Determinar;3
+Junio;Masculino;9;Suicidio;4
+Junio;Masculino;10;Accidente;25
+Junio;Masculino;10;Homicidio;6
+Junio;Masculino;10;Natural;433
+Junio;Masculino;10;Sin Determinar;8
+Junio;Masculino;10;Suicidio;3
+Junio;Masculino;11;Accidente;32
+Junio;Masculino;11;Estudio;2
+Junio;Masculino;11;Homicidio;20
+Junio;Masculino;11;Natural;454
+Junio;Masculino;11;Sin Determinar;5
+Junio;Masculino;11;Suicidio;5
+Junio;Masculino;12;Accidente;21
+Junio;Masculino;12;Estudio;1
+Junio;Masculino;12;Homicidio;6
+Junio;Masculino;12;Natural;405
+Junio;Masculino;12;Sin Determinar;2
+Junio;Masculino;12;Suicidio;2
+Junio;Masculino;13;Accidente;20
+Junio;Masculino;13;Homicidio;23
+Junio;Masculino;13;Natural;376
+Junio;Masculino;13;Sin Determinar;1
+Junio;Masculino;13;Suicidio;5
+Junio;Masculino;14;Accidente;23
+Junio;Masculino;14;Homicidio;15
+Junio;Masculino;14;Natural;357
+Junio;Masculino;14;Sin Determinar;5
+Junio;Masculino;14;Suicidio;2
+Junio;Masculino;15;Accidente;29
+Junio;Masculino;15;Estudio;1
+Junio;Masculino;15;Homicidio;16
+Junio;Masculino;15;Natural;439
+Junio;Masculino;15;Sin Determinar;4
+Junio;Masculino;15;Suicidio;1
+Junio;Masculino;16;Accidente;31
+Junio;Masculino;16;Homicidio;22
+Junio;Masculino;16;Natural;420
+Junio;Masculino;16;Sin Determinar;1
+Junio;Masculino;16;Suicidio;4
+Junio;Masculino;17;Accidente;29
+Junio;Masculino;17;Estudio;1
+Junio;Masculino;17;Homicidio;22
+Junio;Masculino;17;Natural;434
+Junio;Masculino;17;Sin Determinar;2
+Junio;Masculino;17;Suicidio;2
+Junio;Masculino;18;Accidente;34
+Junio;Masculino;18;Homicidio;24
+Junio;Masculino;18;Natural;384
+Junio;Masculino;18;Sin Determinar;1
+Junio;Masculino;18;Suicidio;1
+Junio;Masculino;19;Accidente;24
+Junio;Masculino;19;Estudio;1
+Junio;Masculino;19;Homicidio;36
+Junio;Masculino;19;Natural;338
+Junio;Masculino;19;Sin Determinar;2
+Junio;Masculino;19;Suicidio;6
+Junio;Masculino;20;Accidente;23
+Junio;Masculino;20;Homicidio;33
+Junio;Masculino;20;Natural;339
+Junio;Masculino;20;Sin Determinar;4
+Junio;Masculino;20;Suicidio;1
+Junio;Masculino;21;Accidente;24
+Junio;Masculino;21;Estudio;1
+Junio;Masculino;21;Homicidio;39
+Junio;Masculino;21;Natural;300
+Junio;Masculino;21;Sin Determinar;4
+Junio;Masculino;21;Suicidio;5
+Junio;Masculino;22;Accidente;25
+Junio;Masculino;22;Estudio;2
+Junio;Masculino;22;Homicidio;23
+Junio;Masculino;22;Natural;349
+Junio;Masculino;22;Sin Determinar;1
+Junio;Masculino;22;Suicidio;5
+Junio;Masculino;23;Accidente;17
+Junio;Masculino;23;Estudio;2
+Junio;Masculino;23;Homicidio;21
+Junio;Masculino;23;Natural;322
+Junio;Masculino;23;Suicidio;2
+Junio;Femenino;0;Accidente;68
+Junio;Femenino;0;Estudio;19
+Junio;Femenino;0;Homicidio;51
+Junio;Femenino;0;Natural;340
+Junio;Femenino;0;Sin Determinar;15
+Junio;Femenino;0;Suicidio;32
+Junio;Femenino;1;Accidente;5
+Junio;Femenino;1;Estudio;1
+Junio;Femenino;1;Natural;318
+Junio;Femenino;1;Sin Determinar;2
+Junio;Femenino;2;Accidente;5
+Junio;Femenino;2;Natural;313
+Junio;Femenino;2;Sin Determinar;2
+Junio;Femenino;3;Accidente;6
+Junio;Femenino;3;Homicidio;2
+Junio;Femenino;3;Natural;316
+Junio;Femenino;3;Sin Determinar;1
+Junio;Femenino;3;Suicidio;1
+Junio;Femenino;4;Accidente;7
+Junio;Femenino;4;Estudio;1
+Junio;Femenino;4;Homicidio;2
+Junio;Femenino;4;Natural;335
+Junio;Femenino;4;Suicidio;1
+Junio;Femenino;5;Accidente;8
+Junio;Femenino;5;Estudio;1
+Junio;Femenino;5;Homicidio;2
+Junio;Femenino;5;Natural;411
+Junio;Femenino;5;Sin Determinar;2
+Junio;Femenino;5;Suicidio;2
+Junio;Femenino;6;Accidente;11
+Junio;Femenino;6;Homicidio;1
+Junio;Femenino;6;Natural;416
+Junio;Femenino;6;Sin Determinar;2
+Junio;Femenino;7;Accidente;7
+Junio;Femenino;7;Natural;384
+Junio;Femenino;7;Sin Determinar;1
+Junio;Femenino;8;Accidente;8
+Junio;Femenino;8;Homicidio;3
+Junio;Femenino;8;Natural;382
+Junio;Femenino;8;Suicidio;1
+Junio;Femenino;9;Accidente;11
+Junio;Femenino;9;Homicidio;1
+Junio;Femenino;9;Natural;436
+Junio;Femenino;9;Suicidio;1
+Junio;Femenino;10;Accidente;9
+Junio;Femenino;10;Estudio;1
+Junio;Femenino;10;Homicidio;3
+Junio;Femenino;10;Natural;448
+Junio;Femenino;10;Suicidio;1
+Junio;Femenino;11;Accidente;9
+Junio;Femenino;11;Estudio;1
+Junio;Femenino;11;Homicidio;1
+Junio;Femenino;11;Natural;391
+Junio;Femenino;11;Sin Determinar;2
+Junio;Femenino;11;Suicidio;1
+Junio;Femenino;12;Accidente;6
+Junio;Femenino;12;Estudio;2
+Junio;Femenino;12;Homicidio;1
+Junio;Femenino;12;Natural;364
+Junio;Femenino;12;Sin Determinar;1
+Junio;Femenino;13;Accidente;6
+Junio;Femenino;13;Natural;385
+Junio;Femenino;13;Sin Determinar;2
+Junio;Femenino;14;Accidente;9
+Junio;Femenino;14;Homicidio;1
+Junio;Femenino;14;Natural;381
+Junio;Femenino;14;Sin Determinar;2
+Junio;Femenino;14;Suicidio;1
+Junio;Femenino;15;Accidente;7
+Junio;Femenino;15;Homicidio;2
+Junio;Femenino;15;Natural;369
+Junio;Femenino;15;Sin Determinar;3
+Junio;Femenino;15;Suicidio;1
+Junio;Femenino;16;Accidente;12
+Junio;Femenino;16;Estudio;1
+Junio;Femenino;16;Natural;408
+Junio;Femenino;16;Sin Determinar;2
+Junio;Femenino;17;Accidente;11
+Junio;Femenino;17;Homicidio;2
+Junio;Femenino;17;Natural;380
+Junio;Femenino;17;Sin Determinar;3
+Junio;Femenino;17;Suicidio;2
+Junio;Femenino;18;Accidente;10
+Junio;Femenino;18;Homicidio;2
+Junio;Femenino;18;Natural;374
+Junio;Femenino;18;Sin Determinar;1
+Junio;Femenino;19;Accidente;8
+Junio;Femenino;19;Estudio;2
+Junio;Femenino;19;Homicidio;1
+Junio;Femenino;19;Natural;356
+Junio;Femenino;19;Suicidio;1
+Junio;Femenino;20;Accidente;10
+Junio;Femenino;20;Homicidio;1
+Junio;Femenino;20;Natural;364
+Junio;Femenino;20;Sin Determinar;1
+Junio;Femenino;21;Accidente;9
+Junio;Femenino;21;Estudio;1
+Junio;Femenino;21;Homicidio;1
+Junio;Femenino;21;Natural;334
+Junio;Femenino;21;Suicidio;1
+Junio;Femenino;22;Accidente;8
+Junio;Femenino;22;Homicidio;4
+Junio;Femenino;22;Natural;316
+Junio;Femenino;22;Sin Determinar;1
+Junio;Femenino;23;Accidente;6
+Junio;Femenino;23;Homicidio;2
+Junio;Femenino;23;Natural;320
+Junio;Femenino;23;Sin Determinar;1
+Junio;Femenino;23;Suicidio;1
+Junio;No Definido;0;Estudio;3
+Junio;No Definido;0;Sin Determinar;1
+Julio;Masculino;0;Accidente;314
+Julio;Masculino;0;Estudio;45
+Julio;Masculino;0;Homicidio;556
+Julio;Masculino;0;Natural;472
+Julio;Masculino;0;Sin Determinar;48
+Julio;Masculino;0;Suicidio;120
+Julio;Masculino;1;Accidente;20
+Julio;Masculino;1;Estudio;2
+Julio;Masculino;1;Homicidio;19
+Julio;Masculino;1;Natural;308
+Julio;Masculino;1;Sin Determinar;1
+Julio;Masculino;1;Suicidio;2
+Julio;Masculino;2;Accidente;15
+Julio;Masculino;2;Estudio;1
+Julio;Masculino;2;Homicidio;22
+Julio;Masculino;2;Natural;329
+Julio;Masculino;2;Suicidio;2
+Julio;Masculino;3;Accidente;17
+Julio;Masculino;3;Homicidio;5
+Julio;Masculino;3;Natural;333
+Julio;Masculino;3;Sin Determinar;1
+Julio;Masculino;3;Suicidio;3
+Julio;Masculino;4;Accidente;27
+Julio;Masculino;4;Homicidio;6
+Julio;Masculino;4;Natural;360
+Julio;Masculino;4;Sin Determinar;2
+Julio;Masculino;4;Suicidio;2
+Julio;Masculino;5;Accidente;18
+Julio;Masculino;5;Estudio;2
+Julio;Masculino;5;Homicidio;12
+Julio;Masculino;5;Natural;460
+Julio;Masculino;5;Sin Determinar;3
+Julio;Masculino;5;Suicidio;1
+Julio;Masculino;6;Accidente;24
+Julio;Masculino;6;Homicidio;14
+Julio;Masculino;6;Natural;465
+Julio;Masculino;6;Sin Determinar;2
+Julio;Masculino;6;Suicidio;6
+Julio;Masculino;7;Accidente;22
+Julio;Masculino;7;Estudio;1
+Julio;Masculino;7;Homicidio;10
+Julio;Masculino;7;Natural;422
+Julio;Masculino;7;Sin Determinar;2
+Julio;Masculino;7;Suicidio;5
+Julio;Masculino;8;Accidente;20
+Julio;Masculino;8;Homicidio;11
+Julio;Masculino;8;Natural;423
+Julio;Masculino;8;Sin Determinar;3
+Julio;Masculino;8;Suicidio;4
+Julio;Masculino;9;Accidente;28
+Julio;Masculino;9;Estudio;1
+Julio;Masculino;9;Homicidio;14
+Julio;Masculino;9;Natural;430
+Julio;Masculino;9;Sin Determinar;4
+Julio;Masculino;9;Suicidio;2
+Julio;Masculino;10;Accidente;16
+Julio;Masculino;10;Estudio;1
+Julio;Masculino;10;Homicidio;13
+Julio;Masculino;10;Natural;500
+Julio;Masculino;10;Sin Determinar;2
+Julio;Masculino;11;Accidente;24
+Julio;Masculino;11;Estudio;1
+Julio;Masculino;11;Homicidio;15
+Julio;Masculino;11;Natural;421
+Julio;Masculino;11;Sin Determinar;4
+Julio;Masculino;11;Suicidio;4
+Julio;Masculino;12;Accidente;13
+Julio;Masculino;12;Estudio;1
+Julio;Masculino;12;Homicidio;12
+Julio;Masculino;12;Natural;431
+Julio;Masculino;12;Sin Determinar;3
+Julio;Masculino;12;Suicidio;2
+Julio;Masculino;13;Accidente;23
+Julio;Masculino;13;Homicidio;14
+Julio;Masculino;13;Natural;434
+Julio;Masculino;13;Sin Determinar;5
+Julio;Masculino;13;Suicidio;6
+Julio;Masculino;14;Accidente;29
+Julio;Masculino;14;Homicidio;16
+Julio;Masculino;14;Natural;404
+Julio;Masculino;14;Sin Determinar;4
+Julio;Masculino;14;Suicidio;1
+Julio;Masculino;15;Accidente;21
+Julio;Masculino;15;Homicidio;15
+Julio;Masculino;15;Natural;415
+Julio;Masculino;15;Sin Determinar;1
+Julio;Masculino;15;Suicidio;5
+Julio;Masculino;16;Accidente;23
+Julio;Masculino;16;Estudio;2
+Julio;Masculino;16;Homicidio;15
+Julio;Masculino;16;Natural;422
+Julio;Masculino;16;Sin Determinar;6
+Julio;Masculino;16;Suicidio;6
+Julio;Masculino;17;Accidente;37
+Julio;Masculino;17;Estudio;1
+Julio;Masculino;17;Homicidio;13
+Julio;Masculino;17;Natural;416
+Julio;Masculino;17;Sin Determinar;3
+Julio;Masculino;17;Suicidio;4
+Julio;Masculino;18;Accidente;15
+Julio;Masculino;18;Homicidio;18
+Julio;Masculino;18;Natural;375
+Julio;Masculino;18;Sin Determinar;3
+Julio;Masculino;18;Suicidio;5
+Julio;Masculino;19;Accidente;20
+Julio;Masculino;19;Homicidio;31
+Julio;Masculino;19;Natural;382
+Julio;Masculino;19;Sin Determinar;4
+Julio;Masculino;19;Suicidio;5
+Julio;Masculino;20;Accidente;18
+Julio;Masculino;20;Estudio;1
+Julio;Masculino;20;Homicidio;38
+Julio;Masculino;20;Natural;350
+Julio;Masculino;20;Sin Determinar;3
+Julio;Masculino;20;Suicidio;3
+Julio;Masculino;21;Accidente;16
+Julio;Masculino;21;Estudio;1
+Julio;Masculino;21;Homicidio;32
+Julio;Masculino;21;Natural;347
+Julio;Masculino;21;Sin Determinar;2
+Julio;Masculino;21;Suicidio;3
+Julio;Masculino;22;Accidente;20
+Julio;Masculino;22;Estudio;1
+Julio;Masculino;22;Homicidio;28
+Julio;Masculino;22;Natural;328
+Julio;Masculino;22;Sin Determinar;4
+Julio;Masculino;22;Suicidio;5
+Julio;Masculino;23;Accidente;26
+Julio;Masculino;23;Homicidio;21
+Julio;Masculino;23;Natural;330
+Julio;Masculino;23;Sin Determinar;3
+Julio;Masculino;23;Suicidio;5
+Julio;Femenino;0;Accidente;74
+Julio;Femenino;0;Estudio;14
+Julio;Femenino;0;Homicidio;51
+Julio;Femenino;0;Natural;358
+Julio;Femenino;0;Sin Determinar;22
+Julio;Femenino;0;Suicidio;29
+Julio;Femenino;1;Accidente;5
+Julio;Femenino;1;Homicidio;1
+Julio;Femenino;1;Natural;317
+Julio;Femenino;1;Sin Determinar;2
+Julio;Femenino;2;Accidente;4
+Julio;Femenino;2;Homicidio;1
+Julio;Femenino;2;Natural;315
+Julio;Femenino;2;Sin Determinar;1
+Julio;Femenino;3;Accidente;8
+Julio;Femenino;3;Homicidio;2
+Julio;Femenino;3;Natural;325
+Julio;Femenino;3;Sin Determinar;1
+Julio;Femenino;4;Accidente;3
+Julio;Femenino;4;Homicidio;2
+Julio;Femenino;4;Natural;385
+Julio;Femenino;4;Sin Determinar;2
+Julio;Femenino;5;Accidente;9
+Julio;Femenino;5;Estudio;2
+Julio;Femenino;5;Homicidio;1
+Julio;Femenino;5;Natural;436
+Julio;Femenino;5;Sin Determinar;2
+Julio;Femenino;5;Suicidio;1
+Julio;Femenino;6;Accidente;7
+Julio;Femenino;6;Estudio;3
+Julio;Femenino;6;Homicidio;3
+Julio;Femenino;6;Natural;450
+Julio;Femenino;6;Sin Determinar;2
+Julio;Femenino;6;Suicidio;1
+Julio;Femenino;7;Accidente;8
+Julio;Femenino;7;Natural;370
+Julio;Femenino;7;Sin Determinar;1
+Julio;Femenino;8;Accidente;11
+Julio;Femenino;8;Homicidio;1
+Julio;Femenino;8;Natural;414
+Julio;Femenino;8;Sin Determinar;2
+Julio;Femenino;8;Suicidio;1
+Julio;Femenino;9;Accidente;15
+Julio;Femenino;9;Estudio;1
+Julio;Femenino;9;Homicidio;4
+Julio;Femenino;9;Natural;464
+Julio;Femenino;9;Sin Determinar;3
+Julio;Femenino;9;Suicidio;2
+Julio;Femenino;10;Accidente;7
+Julio;Femenino;10;Homicidio;1
+Julio;Femenino;10;Natural;431
+Julio;Femenino;10;Suicidio;2
+Julio;Femenino;11;Accidente;5
+Julio;Femenino;11;Natural;391
+Julio;Femenino;11;Sin Determinar;1
+Julio;Femenino;11;Suicidio;2
+Julio;Femenino;12;Accidente;10
+Julio;Femenino;12;Homicidio;1
+Julio;Femenino;12;Natural;369
+Julio;Femenino;12;Sin Determinar;1
+Julio;Femenino;13;Accidente;8
+Julio;Femenino;13;Natural;393
+Julio;Femenino;13;Suicidio;1
+Julio;Femenino;14;Accidente;11
+Julio;Femenino;14;Estudio;1
+Julio;Femenino;14;Homicidio;1
+Julio;Femenino;14;Natural;405
+Julio;Femenino;14;Sin Determinar;2
+Julio;Femenino;14;Suicidio;1
+Julio;Femenino;15;Accidente;8
+Julio;Femenino;15;Homicidio;1
+Julio;Femenino;15;Natural;406
+Julio;Femenino;15;Suicidio;1
+Julio;Femenino;16;Accidente;8
+Julio;Femenino;16;Homicidio;1
+Julio;Femenino;16;Natural;408
+Julio;Femenino;16;Sin Determinar;1
+Julio;Femenino;17;Accidente;12
+Julio;Femenino;17;Estudio;1
+Julio;Femenino;17;Homicidio;2
+Julio;Femenino;17;Natural;388
+Julio;Femenino;17;Sin Determinar;3
+Julio;Femenino;17;Suicidio;2
+Julio;Femenino;18;Accidente;15
+Julio;Femenino;18;Estudio;1
+Julio;Femenino;18;Homicidio;2
+Julio;Femenino;18;Natural;397
+Julio;Femenino;18;Sin Determinar;2
+Julio;Femenino;18;Suicidio;1
+Julio;Femenino;19;Accidente;8
+Julio;Femenino;19;Estudio;1
+Julio;Femenino;19;Homicidio;2
+Julio;Femenino;19;Natural;367
+Julio;Femenino;19;Sin Determinar;1
+Julio;Femenino;20;Accidente;10
+Julio;Femenino;20;Estudio;2
+Julio;Femenino;20;Homicidio;1
+Julio;Femenino;20;Natural;364
+Julio;Femenino;20;Sin Determinar;1
+Julio;Femenino;21;Accidente;7
+Julio;Femenino;21;Natural;375
+Julio;Femenino;21;Sin Determinar;2
+Julio;Femenino;22;Accidente;8
+Julio;Femenino;22;Homicidio;2
+Julio;Femenino;22;Natural;327
+Julio;Femenino;22;Sin Determinar;3
+Julio;Femenino;22;Suicidio;1
+Julio;Femenino;23;Accidente;9
+Julio;Femenino;23;Natural;347
+Julio;Femenino;23;Suicidio;1
+Julio;No Definido;0;Sin Determinar;4
+Julio;No Definido;3;Sin Determinar;1
+Agosto;Masculino;0;Accidente;284
+Agosto;Masculino;0;Estudio;37
+Agosto;Masculino;0;Homicidio;607
+Agosto;Masculino;0;Natural;441
+Agosto;Masculino;0;Sin Determinar;77
+Agosto;Masculino;0;Suicidio;129
+Agosto;Masculino;1;Accidente;20
+Agosto;Masculino;1;Homicidio;24
+Agosto;Masculino;1;Natural;319
+Agosto;Masculino;1;Sin Determinar;2
+Agosto;Masculino;1;Suicidio;2
+Agosto;Masculino;2;Accidente;17
+Agosto;Masculino;2;Estudio;2
+Agosto;Masculino;2;Homicidio;24
+Agosto;Masculino;2;Natural;306
+Agosto;Masculino;2;Sin Determinar;4
+Agosto;Masculino;2;Suicidio;1
+Agosto;Masculino;3;Accidente;21
+Agosto;Masculino;3;Estudio;1
+Agosto;Masculino;3;Homicidio;10
+Agosto;Masculino;3;Natural;309
+Agosto;Masculino;3;Sin Determinar;4
+Agosto;Masculino;4;Accidente;18
+Agosto;Masculino;4;Estudio;1
+Agosto;Masculino;4;Homicidio;14
+Agosto;Masculino;4;Natural;371
+Agosto;Masculino;4;Sin Determinar;2
+Agosto;Masculino;5;Accidente;12
+Agosto;Masculino;5;Estudio;1
+Agosto;Masculino;5;Homicidio;10
+Agosto;Masculino;5;Natural;437
+Agosto;Masculino;5;Sin Determinar;6
+Agosto;Masculino;5;Suicidio;3
+Agosto;Masculino;6;Accidente;15
+Agosto;Masculino;6;Estudio;1
+Agosto;Masculino;6;Homicidio;7
+Agosto;Masculino;6;Natural;448
+Agosto;Masculino;6;Sin Determinar;9
+Agosto;Masculino;6;Suicidio;2
+Agosto;Masculino;7;Accidente;27
+Agosto;Masculino;7;Homicidio;9
+Agosto;Masculino;7;Natural;400
+Agosto;Masculino;7;Sin Determinar;3
+Agosto;Masculino;7;Suicidio;3
+Agosto;Masculino;8;Accidente;19
+Agosto;Masculino;8;Estudio;4
+Agosto;Masculino;8;Homicidio;6
+Agosto;Masculino;8;Natural;427
+Agosto;Masculino;8;Sin Determinar;2
+Agosto;Masculino;8;Suicidio;4
+Agosto;Masculino;9;Accidente;16
+Agosto;Masculino;9;Homicidio;8
+Agosto;Masculino;9;Natural;450
+Agosto;Masculino;9;Sin Determinar;7
+Agosto;Masculino;9;Suicidio;7
+Agosto;Masculino;10;Accidente;26
+Agosto;Masculino;10;Estudio;1
+Agosto;Masculino;10;Homicidio;9
+Agosto;Masculino;10;Natural;447
+Agosto;Masculino;10;Suicidio;7
+Agosto;Masculino;11;Accidente;30
+Agosto;Masculino;11;Estudio;1
+Agosto;Masculino;11;Homicidio;7
+Agosto;Masculino;11;Natural;450
+Agosto;Masculino;11;Sin Determinar;5
+Agosto;Masculino;11;Suicidio;6
+Agosto;Masculino;12;Accidente;18
+Agosto;Masculino;12;Estudio;2
+Agosto;Masculino;12;Homicidio;14
+Agosto;Masculino;12;Natural;450
+Agosto;Masculino;12;Sin Determinar;3
+Agosto;Masculino;12;Suicidio;6
+Agosto;Masculino;13;Accidente;24
+Agosto;Masculino;13;Homicidio;16
+Agosto;Masculino;13;Natural;411
+Agosto;Masculino;13;Sin Determinar;4
+Agosto;Masculino;13;Suicidio;5
+Agosto;Masculino;14;Accidente;32
+Agosto;Masculino;14;Homicidio;12
+Agosto;Masculino;14;Natural;395
+Agosto;Masculino;14;Sin Determinar;6
+Agosto;Masculino;14;Suicidio;1
+Agosto;Masculino;15;Accidente;22
+Agosto;Masculino;15;Estudio;2
+Agosto;Masculino;15;Homicidio;25
+Agosto;Masculino;15;Natural;405
+Agosto;Masculino;15;Sin Determinar;7
+Agosto;Masculino;15;Suicidio;9
+Agosto;Masculino;16;Accidente;27
+Agosto;Masculino;16;Homicidio;25
+Agosto;Masculino;16;Natural;397
+Agosto;Masculino;16;Sin Determinar;3
+Agosto;Masculino;16;Suicidio;6
+Agosto;Masculino;17;Accidente;25
+Agosto;Masculino;17;Estudio;1
+Agosto;Masculino;17;Homicidio;15
+Agosto;Masculino;17;Natural;398
+Agosto;Masculino;17;Sin Determinar;2
+Agosto;Masculino;17;Suicidio;5
+Agosto;Masculino;18;Accidente;23
+Agosto;Masculino;18;Homicidio;24
+Agosto;Masculino;18;Natural;410
+Agosto;Masculino;18;Sin Determinar;1
+Agosto;Masculino;18;Suicidio;2
+Agosto;Masculino;19;Accidente;25
+Agosto;Masculino;19;Homicidio;40
+Agosto;Masculino;19;Natural;323
+Agosto;Masculino;19;Sin Determinar;1
+Agosto;Masculino;19;Suicidio;2
+Agosto;Masculino;20;Accidente;22
+Agosto;Masculino;20;Homicidio;33
+Agosto;Masculino;20;Natural;361
+Agosto;Masculino;20;Sin Determinar;2
+Agosto;Masculino;20;Suicidio;6
+Agosto;Masculino;21;Accidente;33
+Agosto;Masculino;21;Homicidio;28
+Agosto;Masculino;21;Natural;322
+Agosto;Masculino;21;Sin Determinar;4
+Agosto;Masculino;21;Suicidio;2
+Agosto;Masculino;22;Accidente;18
+Agosto;Masculino;22;Estudio;2
+Agosto;Masculino;22;Homicidio;32
+Agosto;Masculino;22;Natural;323
+Agosto;Masculino;22;Sin Determinar;3
+Agosto;Masculino;22;Suicidio;6
+Agosto;Masculino;23;Accidente;15
+Agosto;Masculino;23;Estudio;2
+Agosto;Masculino;23;Homicidio;31
+Agosto;Masculino;23;Natural;306
+Agosto;Masculino;23;Sin Determinar;7
+Agosto;Masculino;23;Suicidio;1
+Agosto;Femenino;0;Accidente;69
+Agosto;Femenino;0;Estudio;19
+Agosto;Femenino;0;Homicidio;70
+Agosto;Femenino;0;Natural;331
+Agosto;Femenino;0;Sin Determinar;12
+Agosto;Femenino;0;Suicidio;24
+Agosto;Femenino;1;Accidente;5
+Agosto;Femenino;1;Homicidio;3
+Agosto;Femenino;1;Natural;342
+Agosto;Femenino;1;Suicidio;1
+Agosto;Femenino;2;Accidente;7
+Agosto;Femenino;2;Homicidio;1
+Agosto;Femenino;2;Natural;294
+Agosto;Femenino;2;Sin Determinar;3
+Agosto;Femenino;3;Accidente;3
+Agosto;Femenino;3;Homicidio;3
+Agosto;Femenino;3;Natural;379
+Agosto;Femenino;3;Sin Determinar;1
+Agosto;Femenino;4;Accidente;6
+Agosto;Femenino;4;Homicidio;1
+Agosto;Femenino;4;Natural;386
+Agosto;Femenino;4;Sin Determinar;2
+Agosto;Femenino;5;Accidente;1
+Agosto;Femenino;5;Estudio;1
+Agosto;Femenino;5;Homicidio;2
+Agosto;Femenino;5;Natural;436
+Agosto;Femenino;5;Sin Determinar;4
+Agosto;Femenino;6;Accidente;4
+Agosto;Femenino;6;Homicidio;1
+Agosto;Femenino;6;Natural;405
+Agosto;Femenino;6;Sin Determinar;2
+Agosto;Femenino;6;Suicidio;1
+Agosto;Femenino;7;Accidente;12
+Agosto;Femenino;7;Homicidio;1
+Agosto;Femenino;7;Natural;367
+Agosto;Femenino;8;Accidente;8
+Agosto;Femenino;8;Homicidio;3
+Agosto;Femenino;8;Natural;418
+Agosto;Femenino;8;Sin Determinar;3
+Agosto;Femenino;8;Suicidio;2
+Agosto;Femenino;9;Accidente;5
+Agosto;Femenino;9;Natural;452
+Agosto;Femenino;9;Sin Determinar;5
+Agosto;Femenino;9;Suicidio;1
+Agosto;Femenino;10;Accidente;13
+Agosto;Femenino;10;Homicidio;3
+Agosto;Femenino;10;Natural;442
+Agosto;Femenino;10;Sin Determinar;2
+Agosto;Femenino;10;Suicidio;1
+Agosto;Femenino;11;Accidente;9
+Agosto;Femenino;11;Estudio;1
+Agosto;Femenino;11;Homicidio;3
+Agosto;Femenino;11;Natural;406
+Agosto;Femenino;11;Sin Determinar;2
+Agosto;Femenino;11;Suicidio;1
+Agosto;Femenino;12;Accidente;13
+Agosto;Femenino;12;Estudio;1
+Agosto;Femenino;12;Homicidio;1
+Agosto;Femenino;12;Natural;434
+Agosto;Femenino;12;Sin Determinar;1
+Agosto;Femenino;12;Suicidio;1
+Agosto;Femenino;13;Accidente;13
+Agosto;Femenino;13;Estudio;1
+Agosto;Femenino;13;Homicidio;1
+Agosto;Femenino;13;Natural;389
+Agosto;Femenino;13;Sin Determinar;2
+Agosto;Femenino;13;Suicidio;2
+Agosto;Femenino;14;Accidente;13
+Agosto;Femenino;14;Homicidio;2
+Agosto;Femenino;14;Natural;350
+Agosto;Femenino;14;Suicidio;2
+Agosto;Femenino;15;Accidente;8
+Agosto;Femenino;15;Homicidio;1
+Agosto;Femenino;15;Natural;372
+Agosto;Femenino;15;Sin Determinar;1
+Agosto;Femenino;16;Accidente;5
+Agosto;Femenino;16;Estudio;1
+Agosto;Femenino;16;Natural;405
+Agosto;Femenino;16;Suicidio;2
+Agosto;Femenino;17;Accidente;3
+Agosto;Femenino;17;Estudio;1
+Agosto;Femenino;17;Homicidio;1
+Agosto;Femenino;17;Natural;375
+Agosto;Femenino;17;Sin Determinar;4
+Agosto;Femenino;17;Suicidio;1
+Agosto;Femenino;18;Accidente;9
+Agosto;Femenino;18;Estudio;2
+Agosto;Femenino;18;Homicidio;2
+Agosto;Femenino;18;Natural;378
+Agosto;Femenino;18;Sin Determinar;1
+Agosto;Femenino;18;Suicidio;2
+Agosto;Femenino;19;Accidente;10
+Agosto;Femenino;19;Estudio;1
+Agosto;Femenino;19;Homicidio;1
+Agosto;Femenino;19;Natural;381
+Agosto;Femenino;19;Sin Determinar;1
+Agosto;Femenino;19;Suicidio;2
+Agosto;Femenino;20;Accidente;9
+Agosto;Femenino;20;Homicidio;3
+Agosto;Femenino;20;Natural;350
+Agosto;Femenino;20;Sin Determinar;2
+Agosto;Femenino;20;Suicidio;1
+Agosto;Femenino;21;Accidente;11
+Agosto;Femenino;21;Homicidio;2
+Agosto;Femenino;21;Natural;341
+Agosto;Femenino;22;Accidente;7
+Agosto;Femenino;22;Estudio;1
+Agosto;Femenino;22;Homicidio;1
+Agosto;Femenino;22;Natural;323
+Agosto;Femenino;23;Accidente;9
+Agosto;Femenino;23;Homicidio;6
+Agosto;Femenino;23;Natural;344
+Agosto;Femenino;23;Suicidio;1
+Agosto;No Definido;0;Estudio;2
+Agosto;No Definido;0;Homicidio;2
+Agosto;No Definido;0;Sin Determinar;7
+Agosto;No Definido;7;Homicidio;1
+Septiembre;Masculino;0;Accidente;329
+Septiembre;Masculino;0;Estudio;41
+Septiembre;Masculino;0;Homicidio;598
+Septiembre;Masculino;0;Natural;406
+Septiembre;Masculino;0;Sin Determinar;61
+Septiembre;Masculino;0;Suicidio;137
+Septiembre;Masculino;1;Accidente;22
+Septiembre;Masculino;1;Homicidio;13
+Septiembre;Masculino;1;Natural;288
+Septiembre;Masculino;1;Sin Determinar;1
+Septiembre;Masculino;1;Suicidio;4
+Septiembre;Masculino;2;Accidente;17
+Septiembre;Masculino;2;Estudio;1
+Septiembre;Masculino;2;Homicidio;14
+Septiembre;Masculino;2;Natural;298
+Septiembre;Masculino;2;Sin Determinar;1
+Septiembre;Masculino;2;Suicidio;2
+Septiembre;Masculino;3;Accidente;7
+Septiembre;Masculino;3;Homicidio;13
+Septiembre;Masculino;3;Natural;306
+Septiembre;Masculino;3;Sin Determinar;3
+Septiembre;Masculino;3;Suicidio;2
+Septiembre;Masculino;4;Accidente;21
+Septiembre;Masculino;4;Homicidio;10
+Septiembre;Masculino;4;Natural;328
+Septiembre;Masculino;4;Suicidio;4
+Septiembre;Masculino;5;Accidente;15
+Septiembre;Masculino;5;Estudio;1
+Septiembre;Masculino;5;Homicidio;20
+Septiembre;Masculino;5;Natural;463
+Septiembre;Masculino;5;Sin Determinar;4
+Septiembre;Masculino;5;Suicidio;1
+Septiembre;Masculino;6;Accidente;15
+Septiembre;Masculino;6;Estudio;1
+Septiembre;Masculino;6;Homicidio;12
+Septiembre;Masculino;6;Natural;398
+Septiembre;Masculino;6;Sin Determinar;2
+Septiembre;Masculino;6;Suicidio;3
+Septiembre;Masculino;7;Accidente;21
+Septiembre;Masculino;7;Estudio;2
+Septiembre;Masculino;7;Homicidio;7
+Septiembre;Masculino;7;Natural;346
+Septiembre;Masculino;7;Sin Determinar;2
+Septiembre;Masculino;7;Suicidio;2
+Septiembre;Masculino;8;Accidente;13
+Septiembre;Masculino;8;Homicidio;19
+Septiembre;Masculino;8;Natural;383
+Septiembre;Masculino;8;Suicidio;3
+Septiembre;Masculino;9;Accidente;25
+Septiembre;Masculino;9;Homicidio;10
+Septiembre;Masculino;9;Natural;399
+Septiembre;Masculino;9;Sin Determinar;3
+Septiembre;Masculino;9;Suicidio;3
+Septiembre;Masculino;10;Accidente;23
+Septiembre;Masculino;10;Estudio;1
+Septiembre;Masculino;10;Homicidio;21
+Septiembre;Masculino;10;Natural;406
+Septiembre;Masculino;10;Suicidio;4
+Septiembre;Masculino;11;Accidente;18
+Septiembre;Masculino;11;Homicidio;10
+Septiembre;Masculino;11;Natural;407
+Septiembre;Masculino;11;Sin Determinar;4
+Septiembre;Masculino;11;Suicidio;2
+Septiembre;Masculino;12;Accidente;13
+Septiembre;Masculino;12;Estudio;2
+Septiembre;Masculino;12;Homicidio;13
+Septiembre;Masculino;12;Natural;337
+Septiembre;Masculino;12;Sin Determinar;1
+Septiembre;Masculino;12;Suicidio;4
+Septiembre;Masculino;13;Accidente;16
+Septiembre;Masculino;13;Homicidio;5
+Septiembre;Masculino;13;Natural;388
+Septiembre;Masculino;13;Sin Determinar;1
+Septiembre;Masculino;13;Suicidio;3
+Septiembre;Masculino;14;Accidente;22
+Septiembre;Masculino;14;Estudio;1
+Septiembre;Masculino;14;Homicidio;10
+Septiembre;Masculino;14;Natural;405
+Septiembre;Masculino;14;Sin Determinar;3
+Septiembre;Masculino;14;Suicidio;4
+Septiembre;Masculino;15;Accidente;19
+Septiembre;Masculino;15;Estudio;1
+Septiembre;Masculino;15;Homicidio;24
+Septiembre;Masculino;15;Natural;393
+Septiembre;Masculino;15;Sin Determinar;4
+Septiembre;Masculino;15;Suicidio;3
+Septiembre;Masculino;16;Accidente;20
+Septiembre;Masculino;16;Homicidio;14
+Septiembre;Masculino;16;Natural;382
+Septiembre;Masculino;16;Sin Determinar;2
+Septiembre;Masculino;16;Suicidio;4
+Septiembre;Masculino;17;Accidente;29
+Septiembre;Masculino;17;Homicidio;13
+Septiembre;Masculino;17;Natural;404
+Septiembre;Masculino;17;Sin Determinar;3
+Septiembre;Masculino;17;Suicidio;1
+Septiembre;Masculino;18;Accidente;31
+Septiembre;Masculino;18;Homicidio;23
+Septiembre;Masculino;18;Natural;376
+Septiembre;Masculino;18;Sin Determinar;2
+Septiembre;Masculino;19;Accidente;26
+Septiembre;Masculino;19;Estudio;1
+Septiembre;Masculino;19;Homicidio;23
+Septiembre;Masculino;19;Natural;297
+Septiembre;Masculino;19;Sin Determinar;4
+Septiembre;Masculino;19;Suicidio;3
+Septiembre;Masculino;20;Accidente;19
+Septiembre;Masculino;20;Homicidio;35
+Septiembre;Masculino;20;Natural;356
+Septiembre;Masculino;20;Sin Determinar;1
+Septiembre;Masculino;20;Suicidio;3
+Septiembre;Masculino;21;Accidente;21
+Septiembre;Masculino;21;Estudio;5
+Septiembre;Masculino;21;Homicidio;19
+Septiembre;Masculino;21;Natural;343
+Septiembre;Masculino;21;Sin Determinar;1
+Septiembre;Masculino;21;Suicidio;2
+Septiembre;Masculino;22;Accidente;18
+Septiembre;Masculino;22;Homicidio;21
+Septiembre;Masculino;22;Natural;328
+Septiembre;Masculino;22;Sin Determinar;5
+Septiembre;Masculino;22;Suicidio;3
+Septiembre;Masculino;23;Accidente;14
+Septiembre;Masculino;23;Estudio;1
+Septiembre;Masculino;23;Homicidio;24
+Septiembre;Masculino;23;Natural;295
+Septiembre;Masculino;23;Sin Determinar;1
+Septiembre;Masculino;23;Suicidio;2
+Septiembre;Femenino;0;Accidente;54
+Septiembre;Femenino;0;Estudio;25
+Septiembre;Femenino;0;Homicidio;72
+Septiembre;Femenino;0;Natural;339
+Septiembre;Femenino;0;Sin Determinar;15
+Septiembre;Femenino;0;Suicidio;25
+Septiembre;Femenino;1;Accidente;6
+Septiembre;Femenino;1;Homicidio;1
+Septiembre;Femenino;1;Natural;307
+Septiembre;Femenino;1;Sin Determinar;1
+Septiembre;Femenino;1;Suicidio;1
+Septiembre;Femenino;2;Accidente;4
+Septiembre;Femenino;2;Natural;299
+Septiembre;Femenino;2;Sin Determinar;1
+Septiembre;Femenino;2;Suicidio;1
+Septiembre;Femenino;3;Accidente;3
+Septiembre;Femenino;3;Estudio;1
+Septiembre;Femenino;3;Homicidio;1
+Septiembre;Femenino;3;Natural;328
+Septiembre;Femenino;4;Accidente;4
+Septiembre;Femenino;4;Natural;307
+Septiembre;Femenino;4;Sin Determinar;1
+Septiembre;Femenino;4;Suicidio;1
+Septiembre;Femenino;5;Accidente;6
+Septiembre;Femenino;5;Natural;404
+Septiembre;Femenino;5;Sin Determinar;2
+Septiembre;Femenino;5;Suicidio;1
+Septiembre;Femenino;6;Accidente;7
+Septiembre;Femenino;6;Homicidio;1
+Septiembre;Femenino;6;Natural;371
+Septiembre;Femenino;6;Sin Determinar;1
+Septiembre;Femenino;7;Accidente;6
+Septiembre;Femenino;7;Estudio;1
+Septiembre;Femenino;7;Homicidio;1
+Septiembre;Femenino;7;Natural;345
+Septiembre;Femenino;7;Sin Determinar;2
+Septiembre;Femenino;8;Accidente;2
+Septiembre;Femenino;8;Estudio;1
+Septiembre;Femenino;8;Natural;380
+Septiembre;Femenino;8;Sin Determinar;1
+Septiembre;Femenino;8;Suicidio;2
+Septiembre;Femenino;9;Accidente;10
+Septiembre;Femenino;9;Natural;380
+Septiembre;Femenino;9;Suicidio;1
+Septiembre;Femenino;10;Accidente;9
+Septiembre;Femenino;10;Homicidio;5
+Septiembre;Femenino;10;Natural;426
+Septiembre;Femenino;10;Suicidio;2
+Septiembre;Femenino;11;Accidente;10
+Septiembre;Femenino;11;Estudio;1
+Septiembre;Femenino;11;Homicidio;1
+Septiembre;Femenino;11;Natural;383
+Septiembre;Femenino;11;Sin Determinar;2
+Septiembre;Femenino;12;Accidente;11
+Septiembre;Femenino;12;Natural;372
+Septiembre;Femenino;12;Suicidio;2
+Septiembre;Femenino;13;Accidente;7
+Septiembre;Femenino;13;Estudio;1
+Septiembre;Femenino;13;Homicidio;2
+Septiembre;Femenino;13;Natural;360
+Septiembre;Femenino;13;Suicidio;1
+Septiembre;Femenino;14;Accidente;9
+Septiembre;Femenino;14;Homicidio;3
+Septiembre;Femenino;14;Natural;363
+Septiembre;Femenino;14;Sin Determinar;1
+Septiembre;Femenino;14;Suicidio;1
+Septiembre;Femenino;15;Accidente;15
+Septiembre;Femenino;15;Homicidio;3
+Septiembre;Femenino;15;Natural;386
+Septiembre;Femenino;15;Suicidio;3
+Septiembre;Femenino;16;Accidente;10
+Septiembre;Femenino;16;Homicidio;3
+Septiembre;Femenino;16;Natural;358
+Septiembre;Femenino;16;Sin Determinar;1
+Septiembre;Femenino;16;Suicidio;1
+Septiembre;Femenino;17;Accidente;6
+Septiembre;Femenino;17;Estudio;1
+Septiembre;Femenino;17;Homicidio;1
+Septiembre;Femenino;17;Natural;359
+Septiembre;Femenino;17;Suicidio;2
+Septiembre;Femenino;18;Accidente;13
+Septiembre;Femenino;18;Estudio;1
+Septiembre;Femenino;18;Natural;374
+Septiembre;Femenino;18;Sin Determinar;1
+Septiembre;Femenino;18;Suicidio;2
+Septiembre;Femenino;19;Accidente;8
+Septiembre;Femenino;19;Estudio;1
+Septiembre;Femenino;19;Homicidio;3
+Septiembre;Femenino;19;Natural;319
+Septiembre;Femenino;19;Sin Determinar;1
+Septiembre;Femenino;20;Accidente;9
+Septiembre;Femenino;20;Estudio;1
+Septiembre;Femenino;20;Homicidio;3
+Septiembre;Femenino;20;Natural;358
+Septiembre;Femenino;20;Suicidio;1
+Septiembre;Femenino;21;Accidente;5
+Septiembre;Femenino;21;Homicidio;1
+Septiembre;Femenino;21;Natural;311
+Septiembre;Femenino;21;Suicidio;1
+Septiembre;Femenino;22;Accidente;11
+Septiembre;Femenino;22;Estudio;1
+Septiembre;Femenino;22;Natural;313
+Septiembre;Femenino;22;Sin Determinar;2
+Septiembre;Femenino;23;Accidente;6
+Septiembre;Femenino;23;Homicidio;3
+Septiembre;Femenino;23;Natural;332
+Septiembre;Femenino;23;Sin Determinar;1
+Septiembre;Femenino;23;Suicidio;2
+Septiembre;No Definido;0;Estudio;2
+Septiembre;No Definido;0;Sin Determinar;4
+Septiembre;No Definido;8;Homicidio;2
+Octubre;Masculino;0;Accidente;319
+Octubre;Masculino;0;Estudio;41
+Octubre;Masculino;0;Homicidio;562
+Octubre;Masculino;0;Natural;462
+Octubre;Masculino;0;Sin Determinar;62
+Octubre;Masculino;0;Suicidio;114
+Octubre;Masculino;1;Accidente;19
+Octubre;Masculino;1;Estudio;1
+Octubre;Masculino;1;Homicidio;16
+Octubre;Masculino;1;Natural;310
+Octubre;Masculino;1;Sin Determinar;3
+Octubre;Masculino;1;Suicidio;3
+Octubre;Masculino;2;Accidente;19
+Octubre;Masculino;2;Estudio;1
+Octubre;Masculino;2;Homicidio;22
+Octubre;Masculino;2;Natural;315
+Octubre;Masculino;2;Sin Determinar;5
+Octubre;Masculino;2;Suicidio;2
+Octubre;Masculino;3;Accidente;18
+Octubre;Masculino;3;Estudio;2
+Octubre;Masculino;3;Homicidio;15
+Octubre;Masculino;3;Natural;350
+Octubre;Masculino;3;Sin Determinar;1
+Octubre;Masculino;3;Suicidio;4
+Octubre;Masculino;4;Accidente;7
+Octubre;Masculino;4;Estudio;3
+Octubre;Masculino;4;Homicidio;13
+Octubre;Masculino;4;Natural;347
+Octubre;Masculino;4;Sin Determinar;3
+Octubre;Masculino;4;Suicidio;4
+Octubre;Masculino;5;Accidente;17
+Octubre;Masculino;5;Estudio;1
+Octubre;Masculino;5;Homicidio;11
+Octubre;Masculino;5;Natural;437
+Octubre;Masculino;5;Sin Determinar;9
+Octubre;Masculino;5;Suicidio;3
+Octubre;Masculino;6;Accidente;19
+Octubre;Masculino;6;Estudio;1
+Octubre;Masculino;6;Homicidio;6
+Octubre;Masculino;6;Natural;427
+Octubre;Masculino;6;Sin Determinar;2
+Octubre;Masculino;6;Suicidio;2
+Octubre;Masculino;7;Accidente;23
+Octubre;Masculino;7;Homicidio;9
+Octubre;Masculino;7;Natural;398
+Octubre;Masculino;7;Sin Determinar;4
+Octubre;Masculino;7;Suicidio;4
+Octubre;Masculino;8;Accidente;18
+Octubre;Masculino;8;Homicidio;12
+Octubre;Masculino;8;Natural;415
+Octubre;Masculino;8;Sin Determinar;3
+Octubre;Masculino;8;Suicidio;4
+Octubre;Masculino;9;Accidente;27
+Octubre;Masculino;9;Homicidio;16
+Octubre;Masculino;9;Natural;459
+Octubre;Masculino;9;Sin Determinar;3
+Octubre;Masculino;9;Suicidio;3
+Octubre;Masculino;10;Accidente;23
+Octubre;Masculino;10;Estudio;1
+Octubre;Masculino;10;Homicidio;9
+Octubre;Masculino;10;Natural;439
+Octubre;Masculino;10;Sin Determinar;2
+Octubre;Masculino;10;Suicidio;4
+Octubre;Masculino;11;Accidente;26
+Octubre;Masculino;11;Estudio;1
+Octubre;Masculino;11;Homicidio;17
+Octubre;Masculino;11;Natural;390
+Octubre;Masculino;11;Sin Determinar;1
+Octubre;Masculino;11;Suicidio;2
+Octubre;Masculino;12;Accidente;16
+Octubre;Masculino;12;Homicidio;14
+Octubre;Masculino;12;Natural;382
+Octubre;Masculino;12;Sin Determinar;5
+Octubre;Masculino;12;Suicidio;2
+Octubre;Masculino;13;Accidente;31
+Octubre;Masculino;13;Homicidio;19
+Octubre;Masculino;13;Natural;403
+Octubre;Masculino;13;Sin Determinar;3
+Octubre;Masculino;13;Suicidio;3
+Octubre;Masculino;14;Accidente;30
+Octubre;Masculino;14;Estudio;1
+Octubre;Masculino;14;Homicidio;10
+Octubre;Masculino;14;Natural;399
+Octubre;Masculino;14;Sin Determinar;2
+Octubre;Masculino;14;Suicidio;1
+Octubre;Masculino;15;Accidente;24
+Octubre;Masculino;15;Estudio;2
+Octubre;Masculino;15;Homicidio;10
+Octubre;Masculino;15;Natural;373
+Octubre;Masculino;15;Sin Determinar;1
+Octubre;Masculino;15;Suicidio;7
+Octubre;Masculino;16;Accidente;33
+Octubre;Masculino;16;Homicidio;10
+Octubre;Masculino;16;Natural;393
+Octubre;Masculino;16;Sin Determinar;4
+Octubre;Masculino;16;Suicidio;3
+Octubre;Masculino;17;Accidente;17
+Octubre;Masculino;17;Homicidio;22
+Octubre;Masculino;17;Natural;423
+Octubre;Masculino;17;Sin Determinar;2
+Octubre;Masculino;17;Suicidio;7
+Octubre;Masculino;18;Accidente;23
+Octubre;Masculino;18;Estudio;1
+Octubre;Masculino;18;Homicidio;11
+Octubre;Masculino;18;Natural;396
+Octubre;Masculino;18;Sin Determinar;2
+Octubre;Masculino;18;Suicidio;5
+Octubre;Masculino;19;Accidente;27
+Octubre;Masculino;19;Estudio;2
+Octubre;Masculino;19;Homicidio;28
+Octubre;Masculino;19;Natural;348
+Octubre;Masculino;19;Sin Determinar;1
+Octubre;Masculino;19;Suicidio;4
+Octubre;Masculino;20;Accidente;20
+Octubre;Masculino;20;Homicidio;29
+Octubre;Masculino;20;Natural;331
+Octubre;Masculino;20;Sin Determinar;4
+Octubre;Masculino;21;Accidente;22
+Octubre;Masculino;21;Estudio;1
+Octubre;Masculino;21;Homicidio;29
+Octubre;Masculino;21;Natural;341
+Octubre;Masculino;21;Sin Determinar;4
+Octubre;Masculino;21;Suicidio;2
+Octubre;Masculino;22;Accidente;24
+Octubre;Masculino;22;Estudio;2
+Octubre;Masculino;22;Homicidio;16
+Octubre;Masculino;22;Natural;331
+Octubre;Masculino;22;Suicidio;6
+Octubre;Masculino;23;Accidente;21
+Octubre;Masculino;23;Estudio;1
+Octubre;Masculino;23;Homicidio;23
+Octubre;Masculino;23;Natural;334
+Octubre;Masculino;23;Sin Determinar;6
+Octubre;Masculino;23;Suicidio;3
+Octubre;Femenino;0;Accidente;69
+Octubre;Femenino;0;Estudio;15
+Octubre;Femenino;0;Homicidio;49
+Octubre;Femenino;0;Natural;349
+Octubre;Femenino;0;Sin Determinar;13
+Octubre;Femenino;0;Suicidio;31
+Octubre;Femenino;1;Accidente;10
+Octubre;Femenino;1;Estudio;2
+Octubre;Femenino;1;Homicidio;2
+Octubre;Femenino;1;Natural;313
+Octubre;Femenino;1;Suicidio;1
+Octubre;Femenino;2;Accidente;9
+Octubre;Femenino;2;Estudio;1
+Octubre;Femenino;2;Homicidio;1
+Octubre;Femenino;2;Natural;309
+Octubre;Femenino;3;Accidente;5
+Octubre;Femenino;3;Natural;286
+Octubre;Femenino;3;Sin Determinar;3
+Octubre;Femenino;4;Accidente;4
+Octubre;Femenino;4;Estudio;2
+Octubre;Femenino;4;Natural;351
+Octubre;Femenino;4;Sin Determinar;3
+Octubre;Femenino;4;Suicidio;1
+Octubre;Femenino;5;Accidente;9
+Octubre;Femenino;5;Natural;391
+Octubre;Femenino;5;Sin Determinar;1
+Octubre;Femenino;6;Accidente;10
+Octubre;Femenino;6;Homicidio;3
+Octubre;Femenino;6;Natural;414
+Octubre;Femenino;6;Sin Determinar;3
+Octubre;Femenino;7;Accidente;7
+Octubre;Femenino;7;Homicidio;1
+Octubre;Femenino;7;Natural;399
+Octubre;Femenino;8;Accidente;6
+Octubre;Femenino;8;Estudio;2
+Octubre;Femenino;8;Natural;392
+Octubre;Femenino;9;Accidente;12
+Octubre;Femenino;9;Estudio;1
+Octubre;Femenino;9;Homicidio;1
+Octubre;Femenino;9;Natural;416
+Octubre;Femenino;9;Sin Determinar;1
+Octubre;Femenino;10;Accidente;9
+Octubre;Femenino;10;Natural;447
+Octubre;Femenino;10;Sin Determinar;1
+Octubre;Femenino;10;Suicidio;1
+Octubre;Femenino;11;Accidente;8
+Octubre;Femenino;11;Homicidio;1
+Octubre;Femenino;11;Natural;359
+Octubre;Femenino;11;Suicidio;1
+Octubre;Femenino;12;Accidente;8
+Octubre;Femenino;12;Estudio;1
+Octubre;Femenino;12;Homicidio;1
+Octubre;Femenino;12;Natural;356
+Octubre;Femenino;12;Suicidio;2
+Octubre;Femenino;13;Accidente;8
+Octubre;Femenino;13;Natural;380
+Octubre;Femenino;13;Sin Determinar;1
+Octubre;Femenino;14;Accidente;11
+Octubre;Femenino;14;Homicidio;1
+Octubre;Femenino;14;Natural;371
+Octubre;Femenino;14;Sin Determinar;1
+Octubre;Femenino;14;Suicidio;2
+Octubre;Femenino;15;Accidente;8
+Octubre;Femenino;15;Homicidio;1
+Octubre;Femenino;15;Natural;383
+Octubre;Femenino;15;Sin Determinar;1
+Octubre;Femenino;15;Suicidio;1
+Octubre;Femenino;16;Accidente;9
+Octubre;Femenino;16;Homicidio;1
+Octubre;Femenino;16;Natural;376
+Octubre;Femenino;16;Sin Determinar;1
+Octubre;Femenino;16;Suicidio;3
+Octubre;Femenino;17;Accidente;10
+Octubre;Femenino;17;Estudio;1
+Octubre;Femenino;17;Homicidio;3
+Octubre;Femenino;17;Natural;356
+Octubre;Femenino;17;Sin Determinar;2
+Octubre;Femenino;18;Accidente;7
+Octubre;Femenino;18;Natural;388
+Octubre;Femenino;18;Sin Determinar;1
+Octubre;Femenino;18;Suicidio;1
+Octubre;Femenino;19;Accidente;9
+Octubre;Femenino;19;Estudio;1
+Octubre;Femenino;19;Homicidio;1
+Octubre;Femenino;19;Natural;343
+Octubre;Femenino;19;Sin Determinar;1
+Octubre;Femenino;19;Suicidio;1
+Octubre;Femenino;20;Accidente;9
+Octubre;Femenino;20;Estudio;1
+Octubre;Femenino;20;Homicidio;5
+Octubre;Femenino;20;Natural;322
+Octubre;Femenino;20;Sin Determinar;2
+Octubre;Femenino;20;Suicidio;1
+Octubre;Femenino;21;Accidente;3
+Octubre;Femenino;21;Homicidio;3
+Octubre;Femenino;21;Natural;334
+Octubre;Femenino;21;Sin Determinar;1
+Octubre;Femenino;21;Suicidio;2
+Octubre;Femenino;22;Accidente;9
+Octubre;Femenino;22;Homicidio;1
+Octubre;Femenino;22;Natural;358
+Octubre;Femenino;22;Suicidio;1
+Octubre;Femenino;23;Accidente;6
+Octubre;Femenino;23;Estudio;1
+Octubre;Femenino;23;Homicidio;3
+Octubre;Femenino;23;Natural;297
+Octubre;No Definido;0;Estudio;2
+Octubre;No Definido;0;Homicidio;2
+Octubre;No Definido;0;Sin Determinar;7
+Octubre;No Definido;1;Estudio;1
+Octubre;No Definido;12;Estudio;1
+Noviembre;Masculino;0;Accidente;312
+Noviembre;Masculino;0;Estudio;35
+Noviembre;Masculino;0;Homicidio;613
+Noviembre;Masculino;0;Natural;443
+Noviembre;Masculino;0;Sin Determinar;73
+Noviembre;Masculino;0;Suicidio;109
+Noviembre;Masculino;1;Accidente;15
+Noviembre;Masculino;1;Estudio;1
+Noviembre;Masculino;1;Homicidio;21
+Noviembre;Masculino;1;Natural;318
+Noviembre;Masculino;1;Sin Determinar;1
+Noviembre;Masculino;1;Suicidio;2
+Noviembre;Masculino;2;Accidente;13
+Noviembre;Masculino;2;Estudio;1
+Noviembre;Masculino;2;Homicidio;9
+Noviembre;Masculino;2;Natural;280
+Noviembre;Masculino;2;Suicidio;2
+Noviembre;Masculino;3;Accidente;13
+Noviembre;Masculino;3;Homicidio;16
+Noviembre;Masculino;3;Natural;308
+Noviembre;Masculino;3;Sin Determinar;5
+Noviembre;Masculino;3;Suicidio;2
+Noviembre;Masculino;4;Accidente;18
+Noviembre;Masculino;4;Homicidio;21
+Noviembre;Masculino;4;Natural;366
+Noviembre;Masculino;4;Sin Determinar;5
+Noviembre;Masculino;4;Suicidio;4
+Noviembre;Masculino;5;Accidente;17
+Noviembre;Masculino;5;Estudio;1
+Noviembre;Masculino;5;Homicidio;9
+Noviembre;Masculino;5;Natural;447
+Noviembre;Masculino;5;Sin Determinar;1
+Noviembre;Masculino;5;Suicidio;3
+Noviembre;Masculino;6;Accidente;23
+Noviembre;Masculino;6;Homicidio;11
+Noviembre;Masculino;6;Natural;434
+Noviembre;Masculino;6;Sin Determinar;4
+Noviembre;Masculino;6;Suicidio;1
+Noviembre;Masculino;7;Accidente;16
+Noviembre;Masculino;7;Homicidio;12
+Noviembre;Masculino;7;Natural;397
+Noviembre;Masculino;7;Sin Determinar;2
+Noviembre;Masculino;7;Suicidio;4
+Noviembre;Masculino;8;Accidente;20
+Noviembre;Masculino;8;Estudio;1
+Noviembre;Masculino;8;Homicidio;14
+Noviembre;Masculino;8;Natural;397
+Noviembre;Masculino;8;Sin Determinar;3
+Noviembre;Masculino;8;Suicidio;3
+Noviembre;Masculino;9;Accidente;28
+Noviembre;Masculino;9;Estudio;3
+Noviembre;Masculino;9;Homicidio;8
+Noviembre;Masculino;9;Natural;388
+Noviembre;Masculino;9;Sin Determinar;2
+Noviembre;Masculino;9;Suicidio;2
+Noviembre;Masculino;10;Accidente;18
+Noviembre;Masculino;10;Homicidio;10
+Noviembre;Masculino;10;Natural;465
+Noviembre;Masculino;10;Sin Determinar;4
+Noviembre;Masculino;10;Suicidio;5
+Noviembre;Masculino;11;Accidente;23
+Noviembre;Masculino;11;Estudio;1
+Noviembre;Masculino;11;Homicidio;15
+Noviembre;Masculino;11;Natural;419
+Noviembre;Masculino;11;Sin Determinar;6
+Noviembre;Masculino;11;Suicidio;4
+Noviembre;Masculino;12;Accidente;24
+Noviembre;Masculino;12;Estudio;1
+Noviembre;Masculino;12;Homicidio;12
+Noviembre;Masculino;12;Natural;421
+Noviembre;Masculino;12;Sin Determinar;4
+Noviembre;Masculino;12;Suicidio;3
+Noviembre;Masculino;13;Accidente;17
+Noviembre;Masculino;13;Estudio;1
+Noviembre;Masculino;13;Homicidio;15
+Noviembre;Masculino;13;Natural;402
+Noviembre;Masculino;13;Sin Determinar;3
+Noviembre;Masculino;13;Suicidio;5
+Noviembre;Masculino;14;Accidente;29
+Noviembre;Masculino;14;Estudio;1
+Noviembre;Masculino;14;Homicidio;16
+Noviembre;Masculino;14;Natural;332
+Noviembre;Masculino;14;Sin Determinar;2
+Noviembre;Masculino;14;Suicidio;3
+Noviembre;Masculino;15;Accidente;26
+Noviembre;Masculino;15;Homicidio;7
+Noviembre;Masculino;15;Natural;373
+Noviembre;Masculino;15;Sin Determinar;3
+Noviembre;Masculino;15;Suicidio;1
+Noviembre;Masculino;16;Accidente;20
+Noviembre;Masculino;16;Estudio;2
+Noviembre;Masculino;16;Homicidio;20
+Noviembre;Masculino;16;Natural;369
+Noviembre;Masculino;16;Sin Determinar;5
+Noviembre;Masculino;16;Suicidio;3
+Noviembre;Masculino;17;Accidente;24
+Noviembre;Masculino;17;Estudio;2
+Noviembre;Masculino;17;Homicidio;16
+Noviembre;Masculino;17;Natural;388
+Noviembre;Masculino;17;Sin Determinar;1
+Noviembre;Masculino;17;Suicidio;3
+Noviembre;Masculino;18;Accidente;29
+Noviembre;Masculino;18;Estudio;1
+Noviembre;Masculino;18;Homicidio;18
+Noviembre;Masculino;18;Natural;362
+Noviembre;Masculino;18;Sin Determinar;6
+Noviembre;Masculino;18;Suicidio;2
+Noviembre;Masculino;19;Accidente;16
+Noviembre;Masculino;19;Estudio;2
+Noviembre;Masculino;19;Homicidio;25
+Noviembre;Masculino;19;Natural;334
+Noviembre;Masculino;19;Suicidio;3
+Noviembre;Masculino;20;Accidente;16
+Noviembre;Masculino;20;Homicidio;35
+Noviembre;Masculino;20;Natural;358
+Noviembre;Masculino;20;Sin Determinar;2
+Noviembre;Masculino;20;Suicidio;2
+Noviembre;Masculino;21;Accidente;24
+Noviembre;Masculino;21;Estudio;1
+Noviembre;Masculino;21;Homicidio;26
+Noviembre;Masculino;21;Natural;356
+Noviembre;Masculino;21;Sin Determinar;1
+Noviembre;Masculino;22;Accidente;18
+Noviembre;Masculino;22;Estudio;1
+Noviembre;Masculino;22;Homicidio;17
+Noviembre;Masculino;22;Natural;344
+Noviembre;Masculino;22;Sin Determinar;2
+Noviembre;Masculino;22;Suicidio;3
+Noviembre;Masculino;23;Accidente;25
+Noviembre;Masculino;23;Homicidio;30
+Noviembre;Masculino;23;Natural;323
+Noviembre;Masculino;23;Sin Determinar;5
+Noviembre;Masculino;23;Suicidio;5
+Noviembre;Femenino;0;Accidente;69
+Noviembre;Femenino;0;Estudio;17
+Noviembre;Femenino;0;Homicidio;50
+Noviembre;Femenino;0;Natural;368
+Noviembre;Femenino;0;Sin Determinar;15
+Noviembre;Femenino;0;Suicidio;38
+Noviembre;Femenino;1;Accidente;8
+Noviembre;Femenino;1;Homicidio;1
+Noviembre;Femenino;1;Natural;311
+Noviembre;Femenino;1;Sin Determinar;2
+Noviembre;Femenino;2;Accidente;4
+Noviembre;Femenino;2;Natural;271
+Noviembre;Femenino;3;Accidente;6
+Noviembre;Femenino;3;Homicidio;4
+Noviembre;Femenino;3;Natural;325
+Noviembre;Femenino;3;Sin Determinar;1
+Noviembre;Femenino;3;Suicidio;1
+Noviembre;Femenino;4;Accidente;2
+Noviembre;Femenino;4;Homicidio;3
+Noviembre;Femenino;4;Natural;338
+Noviembre;Femenino;5;Accidente;3
+Noviembre;Femenino;5;Estudio;1
+Noviembre;Femenino;5;Natural;409
+Noviembre;Femenino;5;Sin Determinar;1
+Noviembre;Femenino;6;Accidente;9
+Noviembre;Femenino;6;Homicidio;1
+Noviembre;Femenino;6;Natural;438
+Noviembre;Femenino;6;Suicidio;1
+Noviembre;Femenino;7;Accidente;3
+Noviembre;Femenino;7;Estudio;2
+Noviembre;Femenino;7;Natural;388
+Noviembre;Femenino;8;Accidente;7
+Noviembre;Femenino;8;Homicidio;2
+Noviembre;Femenino;8;Natural;418
+Noviembre;Femenino;8;Sin Determinar;1
+Noviembre;Femenino;8;Suicidio;3
+Noviembre;Femenino;9;Accidente;7
+Noviembre;Femenino;9;Homicidio;2
+Noviembre;Femenino;9;Natural;409
+Noviembre;Femenino;9;Sin Determinar;2
+Noviembre;Femenino;9;Suicidio;1
+Noviembre;Femenino;10;Accidente;6
+Noviembre;Femenino;10;Homicidio;1
+Noviembre;Femenino;10;Natural;411
+Noviembre;Femenino;10;Sin Determinar;1
+Noviembre;Femenino;10;Suicidio;1
+Noviembre;Femenino;11;Accidente;11
+Noviembre;Femenino;11;Homicidio;2
+Noviembre;Femenino;11;Natural;393
+Noviembre;Femenino;11;Sin Determinar;1
+Noviembre;Femenino;11;Suicidio;3
+Noviembre;Femenino;12;Accidente;8
+Noviembre;Femenino;12;Estudio;1
+Noviembre;Femenino;12;Homicidio;1
+Noviembre;Femenino;12;Natural;369
+Noviembre;Femenino;12;Sin Determinar;1
+Noviembre;Femenino;13;Accidente;7
+Noviembre;Femenino;13;Natural;395
+Noviembre;Femenino;13;Sin Determinar;1
+Noviembre;Femenino;13;Suicidio;2
+Noviembre;Femenino;14;Accidente;11
+Noviembre;Femenino;14;Homicidio;1
+Noviembre;Femenino;14;Natural;366
+Noviembre;Femenino;14;Sin Determinar;1
+Noviembre;Femenino;15;Accidente;6
+Noviembre;Femenino;15;Estudio;2
+Noviembre;Femenino;15;Natural;382
+Noviembre;Femenino;15;Sin Determinar;1
+Noviembre;Femenino;15;Suicidio;1
+Noviembre;Femenino;16;Accidente;8
+Noviembre;Femenino;16;Estudio;1
+Noviembre;Femenino;16;Homicidio;2
+Noviembre;Femenino;16;Natural;330
+Noviembre;Femenino;16;Sin Determinar;2
+Noviembre;Femenino;16;Suicidio;1
+Noviembre;Femenino;17;Accidente;5
+Noviembre;Femenino;17;Homicidio;1
+Noviembre;Femenino;17;Natural;357
+Noviembre;Femenino;18;Accidente;6
+Noviembre;Femenino;18;Estudio;3
+Noviembre;Femenino;18;Homicidio;2
+Noviembre;Femenino;18;Natural;378
+Noviembre;Femenino;18;Sin Determinar;1
+Noviembre;Femenino;19;Accidente;9
+Noviembre;Femenino;19;Estudio;1
+Noviembre;Femenino;19;Homicidio;1
+Noviembre;Femenino;19;Natural;346
+Noviembre;Femenino;19;Sin Determinar;1
+Noviembre;Femenino;20;Accidente;8
+Noviembre;Femenino;20;Homicidio;2
+Noviembre;Femenino;20;Natural;396
+Noviembre;Femenino;20;Sin Determinar;1
+Noviembre;Femenino;20;Suicidio;1
+Noviembre;Femenino;21;Accidente;11
+Noviembre;Femenino;21;Homicidio;1
+Noviembre;Femenino;21;Natural;331
+Noviembre;Femenino;21;Sin Determinar;1
+Noviembre;Femenino;22;Accidente;5
+Noviembre;Femenino;22;Natural;308
+Noviembre;Femenino;23;Accidente;6
+Noviembre;Femenino;23;Estudio;1
+Noviembre;Femenino;23;Homicidio;4
+Noviembre;Femenino;23;Natural;293
+Noviembre;Femenino;23;Sin Determinar;1
+Noviembre;No Definido;0;Estudio;1
+Noviembre;No Definido;0;Homicidio;1
+Noviembre;No Definido;0;Sin Determinar;2
+Diciembre;Masculino;0;Accidente;357
+Diciembre;Masculino;0;Estudio;57
+Diciembre;Masculino;0;Homicidio;719
+Diciembre;Masculino;0;Natural;501
+Diciembre;Masculino;0;Sin Determinar;85
+Diciembre;Masculino;0;Suicidio;146
+Diciembre;Masculino;1;Accidente;18
+Diciembre;Masculino;1;Homicidio;30
+Diciembre;Masculino;1;Natural;326
+Diciembre;Masculino;1;Sin Determinar;5
+Diciembre;Masculino;1;Suicidio;1
+Diciembre;Masculino;2;Accidente;20
+Diciembre;Masculino;2;Estudio;1
+Diciembre;Masculino;2;Homicidio;15
+Diciembre;Masculino;2;Natural;326
+Diciembre;Masculino;2;Sin Determinar;3
+Diciembre;Masculino;2;Suicidio;4
+Diciembre;Masculino;3;Accidente;20
+Diciembre;Masculino;3;Homicidio;15
+Diciembre;Masculino;3;Natural;361
+Diciembre;Masculino;3;Sin Determinar;5
+Diciembre;Masculino;3;Suicidio;3
+Diciembre;Masculino;4;Accidente;13
+Diciembre;Masculino;4;Estudio;3
+Diciembre;Masculino;4;Homicidio;11
+Diciembre;Masculino;4;Natural;404
+Diciembre;Masculino;4;Sin Determinar;5
+Diciembre;Masculino;4;Suicidio;1
+Diciembre;Masculino;5;Accidente;21
+Diciembre;Masculino;5;Homicidio;19
+Diciembre;Masculino;5;Natural;471
+Diciembre;Masculino;5;Sin Determinar;8
+Diciembre;Masculino;5;Suicidio;2
+Diciembre;Masculino;6;Accidente;25
+Diciembre;Masculino;6;Estudio;1
+Diciembre;Masculino;6;Homicidio;16
+Diciembre;Masculino;6;Natural;446
+Diciembre;Masculino;6;Sin Determinar;3
+Diciembre;Masculino;6;Suicidio;4
+Diciembre;Masculino;7;Accidente;22
+Diciembre;Masculino;7;Homicidio;17
+Diciembre;Masculino;7;Natural;413
+Diciembre;Masculino;7;Sin Determinar;2
+Diciembre;Masculino;7;Suicidio;2
+Diciembre;Masculino;8;Accidente;25
+Diciembre;Masculino;8;Homicidio;11
+Diciembre;Masculino;8;Natural;426
+Diciembre;Masculino;8;Sin Determinar;2
+Diciembre;Masculino;8;Suicidio;4
+Diciembre;Masculino;9;Accidente;30
+Diciembre;Masculino;9;Estudio;4
+Diciembre;Masculino;9;Homicidio;12
+Diciembre;Masculino;9;Natural;399
+Diciembre;Masculino;9;Sin Determinar;6
+Diciembre;Masculino;9;Suicidio;4
+Diciembre;Masculino;10;Accidente;18
+Diciembre;Masculino;10;Estudio;1
+Diciembre;Masculino;10;Homicidio;15
+Diciembre;Masculino;10;Natural;438
+Diciembre;Masculino;10;Sin Determinar;3
+Diciembre;Masculino;10;Suicidio;3
+Diciembre;Masculino;11;Accidente;38
+Diciembre;Masculino;11;Estudio;1
+Diciembre;Masculino;11;Homicidio;13
+Diciembre;Masculino;11;Natural;427
+Diciembre;Masculino;11;Sin Determinar;3
+Diciembre;Masculino;11;Suicidio;4
+Diciembre;Masculino;12;Accidente;25
+Diciembre;Masculino;12;Estudio;4
+Diciembre;Masculino;12;Homicidio;10
+Diciembre;Masculino;12;Natural;409
+Diciembre;Masculino;12;Sin Determinar;2
+Diciembre;Masculino;12;Suicidio;2
+Diciembre;Masculino;13;Accidente;31
+Diciembre;Masculino;13;Estudio;1
+Diciembre;Masculino;13;Homicidio;11
+Diciembre;Masculino;13;Natural;387
+Diciembre;Masculino;13;Sin Determinar;4
+Diciembre;Masculino;13;Suicidio;5
+Diciembre;Masculino;14;Accidente;27
+Diciembre;Masculino;14;Estudio;1
+Diciembre;Masculino;14;Homicidio;23
+Diciembre;Masculino;14;Natural;397
+Diciembre;Masculino;14;Sin Determinar;1
+Diciembre;Masculino;14;Suicidio;2
+Diciembre;Masculino;15;Accidente;35
+Diciembre;Masculino;15;Estudio;1
+Diciembre;Masculino;15;Homicidio;11
+Diciembre;Masculino;15;Natural;368
+Diciembre;Masculino;15;Sin Determinar;4
+Diciembre;Masculino;15;Suicidio;5
+Diciembre;Masculino;16;Accidente;32
+Diciembre;Masculino;16;Estudio;1
+Diciembre;Masculino;16;Homicidio;11
+Diciembre;Masculino;16;Natural;403
+Diciembre;Masculino;16;Sin Determinar;1
+Diciembre;Masculino;16;Suicidio;1
+Diciembre;Masculino;17;Accidente;28
+Diciembre;Masculino;17;Estudio;2
+Diciembre;Masculino;17;Homicidio;18
+Diciembre;Masculino;17;Natural;422
+Diciembre;Masculino;17;Suicidio;2
+Diciembre;Masculino;18;Accidente;29
+Diciembre;Masculino;18;Homicidio;25
+Diciembre;Masculino;18;Natural;383
+Diciembre;Masculino;18;Sin Determinar;6
+Diciembre;Masculino;18;Suicidio;9
+Diciembre;Masculino;19;Accidente;24
+Diciembre;Masculino;19;Estudio;2
+Diciembre;Masculino;19;Homicidio;36
+Diciembre;Masculino;19;Natural;355
+Diciembre;Masculino;19;Sin Determinar;4
+Diciembre;Masculino;19;Suicidio;2
+Diciembre;Masculino;20;Accidente;37
+Diciembre;Masculino;20;Homicidio;36
+Diciembre;Masculino;20;Natural;397
+Diciembre;Masculino;20;Sin Determinar;4
+Diciembre;Masculino;20;Suicidio;2
+Diciembre;Masculino;21;Accidente;16
+Diciembre;Masculino;21;Homicidio;39
+Diciembre;Masculino;21;Natural;335
+Diciembre;Masculino;21;Sin Determinar;3
+Diciembre;Masculino;21;Suicidio;5
+Diciembre;Masculino;22;Accidente;25
+Diciembre;Masculino;22;Homicidio;31
+Diciembre;Masculino;22;Natural;354
+Diciembre;Masculino;22;Suicidio;3
+Diciembre;Masculino;23;Accidente;27
+Diciembre;Masculino;23;Homicidio;26
+Diciembre;Masculino;23;Natural;336
+Diciembre;Masculino;23;Sin Determinar;1
+Diciembre;Masculino;23;Suicidio;3
+Diciembre;Femenino;0;Accidente;92
+Diciembre;Femenino;0;Estudio;17
+Diciembre;Femenino;0;Homicidio;77
+Diciembre;Femenino;0;Natural;375
+Diciembre;Femenino;0;Sin Determinar;23
+Diciembre;Femenino;0;Suicidio;23
+Diciembre;Femenino;1;Accidente;3
+Diciembre;Femenino;1;Homicidio;4
+Diciembre;Femenino;1;Natural;300
+Diciembre;Femenino;1;Sin Determinar;1
+Diciembre;Femenino;1;Suicidio;1
+Diciembre;Femenino;2;Accidente;7
+Diciembre;Femenino;2;Homicidio;1
+Diciembre;Femenino;2;Natural;295
+Diciembre;Femenino;2;Sin Determinar;1
+Diciembre;Femenino;3;Accidente;6
+Diciembre;Femenino;3;Homicidio;3
+Diciembre;Femenino;3;Natural;323
+Diciembre;Femenino;3;Suicidio;1
+Diciembre;Femenino;4;Accidente;13
+Diciembre;Femenino;4;Estudio;1
+Diciembre;Femenino;4;Homicidio;3
+Diciembre;Femenino;4;Natural;402
+Diciembre;Femenino;4;Sin Determinar;2
+Diciembre;Femenino;5;Accidente;6
+Diciembre;Femenino;5;Estudio;1
+Diciembre;Femenino;5;Homicidio;3
+Diciembre;Femenino;5;Natural;427
+Diciembre;Femenino;5;Sin Determinar;1
+Diciembre;Femenino;5;Suicidio;2
+Diciembre;Femenino;6;Accidente;8
+Diciembre;Femenino;6;Estudio;1
+Diciembre;Femenino;6;Homicidio;5
+Diciembre;Femenino;6;Natural;423
+Diciembre;Femenino;6;Sin Determinar;3
+Diciembre;Femenino;7;Accidente;7
+Diciembre;Femenino;7;Estudio;3
+Diciembre;Femenino;7;Homicidio;2
+Diciembre;Femenino;7;Natural;362
+Diciembre;Femenino;8;Accidente;10
+Diciembre;Femenino;8;Estudio;1
+Diciembre;Femenino;8;Natural;369
+Diciembre;Femenino;9;Accidente;7
+Diciembre;Femenino;9;Estudio;1
+Diciembre;Femenino;9;Homicidio;1
+Diciembre;Femenino;9;Natural;394
+Diciembre;Femenino;9;Sin Determinar;3
+Diciembre;Femenino;10;Accidente;9
+Diciembre;Femenino;10;Homicidio;1
+Diciembre;Femenino;10;Natural;464
+Diciembre;Femenino;10;Sin Determinar;1
+Diciembre;Femenino;11;Accidente;13
+Diciembre;Femenino;11;Natural;436
+Diciembre;Femenino;11;Sin Determinar;1
+Diciembre;Femenino;11;Suicidio;3
+Diciembre;Femenino;12;Accidente;3
+Diciembre;Femenino;12;Estudio;1
+Diciembre;Femenino;12;Homicidio;1
+Diciembre;Femenino;12;Natural;437
+Diciembre;Femenino;12;Sin Determinar;3
+Diciembre;Femenino;12;Suicidio;1
+Diciembre;Femenino;13;Accidente;5
+Diciembre;Femenino;13;Estudio;1
+Diciembre;Femenino;13;Natural;352
+Diciembre;Femenino;13;Sin Determinar;2
+Diciembre;Femenino;13;Suicidio;3
+Diciembre;Femenino;14;Accidente;7
+Diciembre;Femenino;14;Estudio;1
+Diciembre;Femenino;14;Homicidio;1
+Diciembre;Femenino;14;Natural;402
+Diciembre;Femenino;14;Suicidio;1
+Diciembre;Femenino;15;Accidente;7
+Diciembre;Femenino;15;Homicidio;5
+Diciembre;Femenino;15;Natural;443
+Diciembre;Femenino;15;Sin Determinar;1
+Diciembre;Femenino;15;Suicidio;1
+Diciembre;Femenino;16;Accidente;10
+Diciembre;Femenino;16;Homicidio;1
+Diciembre;Femenino;16;Natural;374
+Diciembre;Femenino;17;Accidente;8
+Diciembre;Femenino;17;Homicidio;1
+Diciembre;Femenino;17;Natural;390
+Diciembre;Femenino;17;Sin Determinar;2
+Diciembre;Femenino;18;Accidente;9
+Diciembre;Femenino;18;Homicidio;2
+Diciembre;Femenino;18;Natural;367
+Diciembre;Femenino;18;Sin Determinar;2
+Diciembre;Femenino;19;Accidente;9
+Diciembre;Femenino;19;Estudio;1
+Diciembre;Femenino;19;Homicidio;4
+Diciembre;Femenino;19;Natural;354
+Diciembre;Femenino;19;Sin Determinar;1
+Diciembre;Femenino;20;Accidente;9
+Diciembre;Femenino;20;Homicidio;4
+Diciembre;Femenino;20;Natural;350
+Diciembre;Femenino;20;Sin Determinar;3
+Diciembre;Femenino;20;Suicidio;1
+Diciembre;Femenino;21;Accidente;8
+Diciembre;Femenino;21;Natural;372
+Diciembre;Femenino;21;Sin Determinar;2
+Diciembre;Femenino;21;Suicidio;2
+Diciembre;Femenino;22;Accidente;6
+Diciembre;Femenino;22;Estudio;1
+Diciembre;Femenino;22;Homicidio;1
+Diciembre;Femenino;22;Natural;357
+Diciembre;Femenino;22;Sin Determinar;2
+Diciembre;Femenino;22;Suicidio;1
+Diciembre;Femenino;23;Accidente;9
+Diciembre;Femenino;23;Homicidio;3
+Diciembre;Femenino;23;Natural;321
+Diciembre;Femenino;23;Sin Determinar;1
+Diciembre;Femenino;23;Suicidio;2
+Diciembre;No Definido;0;Estudio;1
+Diciembre;No Definido;12;Homicidio;1
+Diciembre;No Definido;15;Sin Determinar;1
+Diciembre;No Definido;16;Sin Determinar;3
+Diciembre;No Definido;17;Sin Determinar;6
