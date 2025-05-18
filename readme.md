@@ -85,7 +85,7 @@ paginas/
 
 **Portada:** Presentación del proyecto y botón “Informe” para iniciar el recorrido.
 
-![Portada](App-PlotyDash/assets/Portada.jpg)
+![Portada](assets/Portada.jpg)
 
 **Página 1 - Mapa:**  
 
@@ -95,7 +95,7 @@ El mapa coroplético presenta la distribución de muertes por departamento en Co
 
 La primera impresión es que Antioquia (o la región central) muestra la mayor concentración de muertes (rojo intenso), seguida de departamentos como Santander, Cundinamarca y Valle del Cauca con tonos amarillos más oscuros (indicando cifras intermedias). Gran parte del país aparece en blanco o amarillo muy claro, lo que sugiere que esos departamentos presentaron relativamente pocas muertes en 2019. Al aplicar los filtros de sexo o causa, podríamos ver cómo cambian esos patrones—por ejemplo, si las muertes por homicidio se concentran en determinadas regiones o si hay diferencias marcadas entre masculino y femenino.
 
-![Mapa](assets\Mapa.jpg)
+![Mapa](assets/Mapa.jpg)
 
 **Página 2 -Muertes por Mes** 
 
