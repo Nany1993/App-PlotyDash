@@ -85,7 +85,7 @@ paginas/
 
 **Portada:** Presentación del proyecto y botón “Informe” para iniciar el recorrido.
 
-![Portada](assets/Portada.jpg)
+<img src="src/assets/Portada.jpg" alt="Portada" width="600" height="210">
 
 **Página 1 - Mapa:**  
 
