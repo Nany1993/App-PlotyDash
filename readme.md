@@ -105,7 +105,7 @@ En esta ventana el usuario encuentra una serie de tiempo que muestra el total de
 
 Se aprecia un bache pronunciado en febrero, donde las muertes caen a su nivel más bajo (cerca de 18 000), seguido de un repunte en marzo. A partir de marzo, la tendencia es al alza, alcanzando un pico en julio y otro aún mayor en diciembre (más de 21 500 muertes). Este patrón sugiere factores estacionales o eventos (por ejemplo, fenómenos climáticos, festividades o brotes epidémicos) que modifican la mortalidad mensual. Aplicando los filtros se podría investigar, por ejemplo, si esta caída en febrero corresponde a menos accidentes de tránsito o si difiere entre masculino y femenino.
 
-<img src="assets/MuertesPorMes.jpg" alt="Muertes Por Mes" width="600" height="500">
+<img src="assets/MuertesPorMes.jpg" alt="Muertes Por Mes" width="600" height="400">
 
 **Página 3 - Ciudades más violentas**
 
@@ -115,7 +115,7 @@ Aquí se muestra un gráfico de barras horizontales destacando las cinco ciudade
 
 Sorprende que ciudades menos pobladas —como Florencia y Armenia— encabecen la lista de homicidios, con cifras de alrededor de 5 500 muertes. Esto sugiere un índice de violencia muy alto en estas localidades, superando incluso a grandes urbes. La estrecha diferencia entre los valores de las cinco primeras indica que el problema de homicidios está bastante distribuido en varios municipios. Al cambiar filtros (por ejemplo seleccionando solo masculino o un mes específico), podríamos revelar si estos picos corresponden a episodios concretos o si la violencia es persistente a lo largo del año.
 
-<img src="assets/CiudadesViolentas.jpg" alt="Ciudades más violentas" width="600" height="500">
+<img src="assets/CiudadesViolentas.jpg" alt="Ciudades más violentas" width="600" height="400">
 
 **Página 4 - Top Ciudades con menor indice Mortalidad**
 
@@ -125,7 +125,7 @@ En este módulo se presenta un gráfico circular que destaca las diez ciudades c
 
 El pastel muestra que todas las ciudades listadas tienen valores muy cercanos (cada una representa alrededor del 10 %), lo que indica que el límite entre la décima y la undécima posición es muy estrecho. Ciudades como Aldana, Chitaraque y Belén de los Andaquíes aparecen con secciones de color vibrante, señalando que, aunque su mortalidad es baja en términos absolutos, son representativas cuando se normaliza al subconjunto más pequeño. Este gráfico sugiere que existe un grupo homogéneo de municipios con índices bajos de mortalidad, probablemente por su baja población o condiciones locales de baja exposición a riesgos. Al filtrar por sexo o mes, podríamos descubrir si en alguno de esos lugares hay picos atípicos o si la baja mortalidad se mantiene estable.
 
-<img src="assets/IndiceMenorMortalidad.jpg" alt="Indice Menor Mortalidad" width="600" height="500">
+<img src="assets/IndiceMenorMortalidad.jpg" alt="Indice Menor Mortalidad" width="600" height="400">
 
 **Página 5 - Top 10 principales causas de muerte en Colombia**
 
@@ -135,7 +135,7 @@ Aquí se presenta una tabla dinámica con las diez causas de muerte más frecuen
 
 La causa principal es el infarto agudo de miocardio (I219), con más de 615 000 casos, muy por encima de la segunda—la EPOC con infección respiratoria (~149 000). Esto subraya que las enfermedades cardiovasculares dominan la mortalidad en Colombia. Además, llama la atención la presencia de neumonías (J189) y tumores malignos (estómago, bronquios, mama), reforzando la relevancia de los sistemas respiratorio y digestivo en la carga de enfermedad. El filtro por municipio podría revelar variaciones locales, por ejemplo si en zonas rurales las infecciones respiratorias superan a los infartos, o si algunos municipios registran picos de homicidios codificados como “X954”.
 
-<img src="assets/Top_10_Causas_de_Muerte.jpg" alt="Top 10 Causas de Muerte" width="600" height="500">
+<img src="assets/Top_10_Causas_de_Muerte.jpg" alt="Top 10 Causas de Muerte" width="600" height="350">
 
 **Página 6 - Muertes por Rangos de edad**
 
@@ -145,7 +145,7 @@ Esta pantalla muestra un histograma de muertes agrupadas en rangos quinquenales 
 
 Se observa que el rango 65–69 es donde el conteo de muertes alcanza su pico más alto (~32), seguido de 45–49 y 85+. Los grupos intermedios (30–34, 35–39, 50–54) presentan valores moderados, mientras que los extremos (0–4, 5–9) son más bajos, como era de esperar en poblaciones infantiles. Este patrón confirma que la mortalidad aumenta con la edad, con un punto de inflexión marcado en la sexta y séptima década, posiblemente ligado a enfermedades crónicas más prevalentes en adultos mayores. Filtrando por sexo o mes se puede identificar si los picos se deben a factores estacionales o a diferencias biológicas entre hombres y mujeres.
 
-<img src="assets/MuertePorEdad.jpg" alt="Muertes por edad" width="600" height="500">
+<img src="assets/MuertePorEdad.jpg" alt="Muertes por edad" width="600" height="400">
 
 **Página 7 - Muertes por departamento y Sexo**
 
