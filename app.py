@@ -25,6 +25,7 @@ from paginas.MuertesPorSexo import (
 
 
 app = dash.Dash(__name__, suppress_callback_exceptions=True)
+server = app.server
 app.title = "Análisis de Mortalidad en Colombia 2019"
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
