@@ -85,7 +85,7 @@ paginas/
 
 **Portada:** Presentación del proyecto y botón “Informe” para iniciar el recorrido.
 
-![Portada](assets\Portada.jpg)
+![Portada](App-PlotyDash/assets/Portada.jpg)
 
 **Página 1 - Mapa:**  
 
@@ -205,7 +205,7 @@ En este módulo se presenta un gráfico de barras horizontales apiladas que comp
 
 6. **Navegación**
 
-**Usa los botones “Informe”, “Volver” y “Siguiente” o cambia la URL a:**
+    **Usa los botones “Informe”, “Volver” y “Siguiente” o cambia la URL a:**
 
     /mapa
 
